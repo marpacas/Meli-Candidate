@@ -14,13 +14,20 @@
 		5BEF479F22D3B0F100D35599 /* MLCSellerParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479B22D3B0F100D35599 /* MLCSellerParser.m */; };
 		5BEF47A422D3B3F700D35599 /* MLCItemDetailService.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47A122D3B3F700D35599 /* MLCItemDetailService.m */; };
 		5BEF47A522D3B3F700D35599 /* MLCItemDetailParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47A222D3B3F700D35599 /* MLCItemDetailParser.m */; };
+		5BEF47A722D3CB5500D35599 /* SellerParserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47A622D3CB5500D35599 /* SellerParserTests.m */; };
+		5BEF47AF22D3D86B00D35599 /* ValidItem.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BEF47AE22D3D86B00D35599 /* ValidItem.plist */; };
+		5BEF47B122D3D8A800D35599 /* InvalidItem.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BEF47B022D3D8A800D35599 /* InvalidItem.plist */; };
+		5BEF47B522D3D93B00D35599 /* ValidItemDetail.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BEF47B422D3D93B00D35599 /* ValidItemDetail.plist */; };
+		5BEF47B722D3D95C00D35599 /* InvalidItemDetail.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BEF47B622D3D95C00D35599 /* InvalidItemDetail.plist */; };
+		5BEF47BB22D3DA0400D35599 /* InvalidJSONData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5BEF47BA22D3DA0400D35599 /* InvalidJSONData.json */; };
+		5BEF47BD22D3DA3B00D35599 /* ValidJSONData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5BEF47BC22D3DA3B00D35599 /* ValidJSONData.json */; };
+		5BEF47C522D3E05B00D35599 /* ParserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47C422D3E05B00D35599 /* ParserTests.m */; };
 		5BF95F9B22D2CCDD0048A062 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9A22D2CCDD0048A062 /* main.m */; };
 		5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */; };
 		5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FA022D2CCDD0048A062 /* ViewController.m */; };
 		5BF95FA422D2CCDD0048A062 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FA222D2CCDD0048A062 /* Main.storyboard */; };
 		5BF95FA622D2CCDD0048A062 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FA522D2CCDD0048A062 /* Assets.xcassets */; };
 		5BF95FA922D2CCDD0048A062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FA722D2CCDD0048A062 /* LaunchScreen.storyboard */; };
-		5BF95FB422D2CCDE0048A062 /* MeliCandidateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FB322D2CCDE0048A062 /* MeliCandidateTests.m */; };
 		5BF95FBF22D2CCDE0048A062 /* MeliCandidateUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FBE22D2CCDE0048A062 /* MeliCandidateUITests.m */; };
 		5BF95FCD22D2E4AC0048A062 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FCC22D2E4AC0048A062 /* README */; };
 		5BF95FE522D2F3CF0048A062 /* MLCItemTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FE322D2F3CF0048A062 /* MLCItemTableViewCell.xib */; };
@@ -67,6 +74,14 @@
 		5BEF47A122D3B3F700D35599 /* MLCItemDetailService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemDetailService.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		5BEF47A222D3B3F700D35599 /* MLCItemDetailParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemDetailParser.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		5BEF47A322D3B3F700D35599 /* MLCItemDetailParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemDetailParser.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF47A622D3CB5500D35599 /* SellerParserTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SellerParserTests.m; sourceTree = "<group>"; };
+		5BEF47AE22D3D86B00D35599 /* ValidItem.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ValidItem.plist; sourceTree = "<group>"; };
+		5BEF47B022D3D8A800D35599 /* InvalidItem.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = InvalidItem.plist; sourceTree = "<group>"; };
+		5BEF47B422D3D93B00D35599 /* ValidItemDetail.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ValidItemDetail.plist; sourceTree = "<group>"; };
+		5BEF47B622D3D95C00D35599 /* InvalidItemDetail.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = InvalidItemDetail.plist; sourceTree = "<group>"; };
+		5BEF47BA22D3DA0400D35599 /* InvalidJSONData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = InvalidJSONData.json; sourceTree = "<group>"; };
+		5BEF47BC22D3DA3B00D35599 /* ValidJSONData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ValidJSONData.json; sourceTree = "<group>"; };
+		5BEF47C422D3E05B00D35599 /* ParserTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParserTests.m; sourceTree = "<group>"; };
 		5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeliCandidate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF95F9A22D2CCDD0048A062 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -78,7 +93,6 @@
 		5BF95FA822D2CCDD0048A062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5BF95FAA22D2CCDD0048A062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BF95FAF22D2CCDE0048A062 /* MeliCandidateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeliCandidateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BF95FB322D2CCDE0048A062 /* MeliCandidateTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeliCandidateTests.m; sourceTree = "<group>"; };
 		5BF95FB522D2CCDE0048A062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BF95FBA22D2CCDE0048A062 /* MeliCandidateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeliCandidateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF95FBE22D2CCDE0048A062 /* MeliCandidateUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeliCandidateUITests.m; sourceTree = "<group>"; };
@@ -142,6 +156,28 @@
 			path = Parsers;
 			sourceTree = "<group>";
 		};
+		5BEF47A822D3D79000D35599 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5BEF47A922D3D79000D35599 /* Parsing Tests */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		5BEF47A922D3D79000D35599 /* Parsing Tests */ = {
+			isa = PBXGroup;
+			children = (
+				5BEF47AE22D3D86B00D35599 /* ValidItem.plist */,
+				5BEF47B422D3D93B00D35599 /* ValidItemDetail.plist */,
+				5BEF47B022D3D8A800D35599 /* InvalidItem.plist */,
+				5BEF47B622D3D95C00D35599 /* InvalidItemDetail.plist */,
+				5BEF47BC22D3DA3B00D35599 /* ValidJSONData.json */,
+				5BEF47BA22D3DA0400D35599 /* InvalidJSONData.json */,
+			);
+			name = "Parsing Tests";
+			path = Parsing_Tests;
+			sourceTree = "<group>";
+		};
 		5BF95F8D22D2CCDD0048A062 = {
 			isa = PBXGroup;
 			children = (
@@ -199,7 +235,7 @@
 				5BF95FE022D2EBCD0048A062 /* Service Tests */,
 				5BF95FDF22D2EBCD0048A062 /* Parsing Tests */,
 				5BF95FDE22D2EBCD0048A062 /* Performance Tests */,
-				5BF95FB322D2CCDE0048A062 /* MeliCandidateTests.m */,
+				5BEF47A822D3D79000D35599 /* Resources */,
 				5BF95FB522D2CCDE0048A062 /* Info.plist */,
 			);
 			path = MeliCandidateTests;
@@ -374,6 +410,8 @@
 		5BF95FDF22D2EBCD0048A062 /* Parsing Tests */ = {
 			isa = PBXGroup;
 			children = (
+				5BEF47A622D3CB5500D35599 /* SellerParserTests.m */,
+				5BEF47C422D3E05B00D35599 /* ParserTests.m */,
 			);
 			name = "Parsing Tests";
 			path = Parsing_Tests;
@@ -524,6 +562,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BEF47BD22D3DA3B00D35599 /* ValidJSONData.json in Resources */,
+				5BEF47BB22D3DA0400D35599 /* InvalidJSONData.json in Resources */,
+				5BEF47AF22D3D86B00D35599 /* ValidItem.plist in Resources */,
+				5BEF47B522D3D93B00D35599 /* ValidItemDetail.plist in Resources */,
+				5BEF47B722D3D95C00D35599 /* InvalidItemDetail.plist in Resources */,
+				5BEF47B122D3D8A800D35599 /* InvalidItem.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -565,10 +609,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				5BF95FFE22D3223B0048A062 /* SellerTests.m in Sources */,
+				5BEF47A722D3CB5500D35599 /* SellerParserTests.m in Sources */,
 				5BF95FFC22D3141A0048A062 /* ItemTests.m in Sources */,
 				5BF9600022D325C00048A062 /* LocationTests.m in Sources */,
+				5BEF47C522D3E05B00D35599 /* ParserTests.m in Sources */,
 				5BEF479222D3992D00D35599 /* FormatterTests.m in Sources */,
-				5BF95FB422D2CCDE0048A062 /* MeliCandidateTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

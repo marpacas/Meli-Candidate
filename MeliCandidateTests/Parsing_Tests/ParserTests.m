@@ -1,18 +1,18 @@
 //
-//  MeliCandidateTests.m
-//  MeliCandidateTests
+//  ParserTests.m
+//  MeliCandidate
 //
-//  Created by Martha Patricia Castillo Fuentes on 7/7/19.
+//  Created by Martha Patricia Castillo Fuentes on 7/8/19.
 //  Copyright © 2019 Martha Castillo. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface MeliCandidateTests : XCTestCase
+@interface ParserTests : XCTestCase
 
 @end
 
-@implementation MeliCandidateTests
+@implementation ParserTests
 
 - (void)setUp {
     [super setUp];
