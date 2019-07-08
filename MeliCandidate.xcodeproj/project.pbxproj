@@ -21,6 +21,9 @@
 		5BF95FED22D300D70048A062 /* MLCSeller.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FEA22D300D70048A062 /* MLCSeller.m */; };
 		5BF95FEE22D300D70048A062 /* MLCLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FEB22D300D70048A062 /* MLCLocation.m */; };
 		5BF95FF122D3015B0048A062 /* MLCConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FEF22D3015B0048A062 /* MLCConstants.m */; };
+		5BF95FF622D307A40048A062 /* MLCQuantityFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FF422D307A40048A062 /* MLCQuantityFormatter.m */; };
+		5BF95FF722D307A40048A062 /* MLCPriceFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FF522D307A40048A062 /* MLCPriceFormatter.m */; };
+		5BF95FFA22D308030048A062 /* MLCItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FF922D308030048A062 /* MLCItemTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +70,12 @@
 		5BF95FEB22D300D70048A062 /* MLCLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCLocation.m; sourceTree = "<group>"; };
 		5BF95FEF22D3015B0048A062 /* MLCConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCConstants.m; sourceTree = "<group>"; };
 		5BF95FF022D3015B0048A062 /* MLCConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCConstants.h; sourceTree = "<group>"; };
+		5BF95FF222D307A40048A062 /* MLCQuantityFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCQuantityFormatter.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BF95FF322D307A40048A062 /* MLCPriceFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCPriceFormatter.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BF95FF422D307A40048A062 /* MLCQuantityFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCQuantityFormatter.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BF95FF522D307A40048A062 /* MLCPriceFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCPriceFormatter.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BF95FF822D308030048A062 /* MLCItemTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemTableViewCell.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BF95FF922D308030048A062 /* MLCItemTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemTableViewCell.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -217,6 +226,10 @@
 		5BF95FD322D2EAE70048A062 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				5BF95FF222D307A40048A062 /* MLCQuantityFormatter.h */,
+				5BF95FF422D307A40048A062 /* MLCQuantityFormatter.m */,
+				5BF95FF322D307A40048A062 /* MLCPriceFormatter.h */,
+				5BF95FF522D307A40048A062 /* MLCPriceFormatter.m */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -297,6 +310,8 @@
 		5BF95FDD22D2EAE70048A062 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				5BF95FF822D308030048A062 /* MLCItemTableViewCell.h */,
+				5BF95FF922D308030048A062 /* MLCItemTableViewCell.m */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -476,13 +491,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BF95FF622D307A40048A062 /* MLCQuantityFormatter.m in Sources */,
 				5BF95FED22D300D70048A062 /* MLCSeller.m in Sources */,
 				5BF95FF122D3015B0048A062 /* MLCConstants.m in Sources */,
+				5BF95FF722D307A40048A062 /* MLCPriceFormatter.m in Sources */,
 				5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */,
 				5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */,
 				5BF95FEE22D300D70048A062 /* MLCLocation.m in Sources */,
 				5BF95F9B22D2CCDD0048A062 /* main.m in Sources */,
 				5BF95FEC22D300D70048A062 /* MLCItem.m in Sources */,
+				5BF95FFA22D308030048A062 /* MLCItemTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
