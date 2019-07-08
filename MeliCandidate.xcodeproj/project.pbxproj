@@ -129,11 +129,11 @@
 		5BF95FB222D2CCDE0048A062 /* MeliCandidateTests */ = {
 			isa = PBXGroup;
 			children = (
-				5BF95FDE22D2EBCD0048A062 /* Performance Tests */,
-				5BF95FDF22D2EBCD0048A062 /* Parsing Tests */,
-				5BF95FE022D2EBCD0048A062 /* Service Tests */,
-				5BF95FE122D2EBCD0048A062 /* Controller Tests */,
 				5BF95FE222D2EBCD0048A062 /* Model Tests */,
+				5BF95FE122D2EBCD0048A062 /* Controller Tests */,
+				5BF95FE022D2EBCD0048A062 /* Service Tests */,
+				5BF95FDF22D2EBCD0048A062 /* Parsing Tests */,
+				5BF95FDE22D2EBCD0048A062 /* Performance Tests */,
 				5BF95FB322D2CCDE0048A062 /* MeliCandidateTests.m */,
 				5BF95FB522D2CCDE0048A062 /* Info.plist */,
 			);
@@ -162,10 +162,10 @@
 		5BF95FCF22D2EAE70048A062 /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				5BF95FD022D2EAE70048A062 /* Controller */,
 				5BF95FD122D2EAE70048A062 /* Model */,
-				5BF95FD222D2EAE70048A062 /* Service */,
 				5BF95FD322D2EAE70048A062 /* View */,
+				5BF95FD022D2EAE70048A062 /* Controller */,
+				5BF95FD222D2EAE70048A062 /* Service */,
 			);
 			path = Common;
 			sourceTree = "<group>";
@@ -201,10 +201,10 @@
 		5BF95FD422D2EAE70048A062 /* Item Detail */ = {
 			isa = PBXGroup;
 			children = (
-				5BF95FD522D2EAE70048A062 /* Controller */,
 				5BF95FD622D2EAE70048A062 /* Model */,
-				5BF95FD722D2EAE70048A062 /* Service */,
 				5BF95FD822D2EAE70048A062 /* View */,
+				5BF95FD522D2EAE70048A062 /* Controller */,
+				5BF95FD722D2EAE70048A062 /* Service */,
 			);
 			name = "Item Detail";
 			path = Item_Detail;
@@ -241,10 +241,10 @@
 		5BF95FD922D2EAE70048A062 /* Search Items */ = {
 			isa = PBXGroup;
 			children = (
-				5BF95FDA22D2EAE70048A062 /* Controller */,
 				5BF95FDB22D2EAE70048A062 /* Model */,
-				5BF95FDC22D2EAE70048A062 /* Service */,
 				5BF95FDD22D2EAE70048A062 /* View */,
+				5BF95FDA22D2EAE70048A062 /* Controller */,
+				5BF95FDC22D2EAE70048A062 /* Service */,
 			);
 			name = "Search Items";
 			path = Search_Items;
