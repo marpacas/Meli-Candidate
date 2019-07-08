@@ -17,6 +17,10 @@
 		5BF95FBF22D2CCDE0048A062 /* MeliCandidateUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FBE22D2CCDE0048A062 /* MeliCandidateUITests.m */; };
 		5BF95FCD22D2E4AC0048A062 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FCC22D2E4AC0048A062 /* README */; };
 		5BF95FE522D2F3CF0048A062 /* MLCItemTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FE322D2F3CF0048A062 /* MLCItemTableViewCell.xib */; };
+		5BF95FEC22D300D70048A062 /* MLCItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FE722D300D70048A062 /* MLCItem.m */; };
+		5BF95FED22D300D70048A062 /* MLCSeller.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FEA22D300D70048A062 /* MLCSeller.m */; };
+		5BF95FEE22D300D70048A062 /* MLCLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FEB22D300D70048A062 /* MLCLocation.m */; };
+		5BF95FF122D3015B0048A062 /* MLCConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FEF22D3015B0048A062 /* MLCConstants.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +59,14 @@
 		5BF95FC022D2CCDE0048A062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BF95FCC22D2E4AC0048A062 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		5BF95FE422D2F3CF0048A062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MLCItemTableViewCell.xib; sourceTree = "<group>"; };
+		5BF95FE622D300D70048A062 /* MLCItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCItem.h; sourceTree = "<group>"; };
+		5BF95FE722D300D70048A062 /* MLCItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCItem.m; sourceTree = "<group>"; };
+		5BF95FE822D300D70048A062 /* MLCSeller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCSeller.h; sourceTree = "<group>"; };
+		5BF95FE922D300D70048A062 /* MLCLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCLocation.h; sourceTree = "<group>"; };
+		5BF95FEA22D300D70048A062 /* MLCSeller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCSeller.m; sourceTree = "<group>"; };
+		5BF95FEB22D300D70048A062 /* MLCLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCLocation.m; sourceTree = "<group>"; };
+		5BF95FEF22D3015B0048A062 /* MLCConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCConstants.m; sourceTree = "<group>"; };
+		5BF95FF022D3015B0048A062 /* MLCConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCConstants.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,8 +122,10 @@
 				5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */,
 				5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */,
 				5BF95F9F22D2CCDD0048A062 /* ViewController.h */,
-				5BF95FE322D2F3CF0048A062 /* MLCItemTableViewCell.xib */,
 				5BF95FA022D2CCDD0048A062 /* ViewController.m */,
+				5BF95FEF22D3015B0048A062 /* MLCConstants.m */,
+				5BF95FF022D3015B0048A062 /* MLCConstants.h */,
+				5BF95FE322D2F3CF0048A062 /* MLCItemTableViewCell.xib */,
 				5BF95FA222D2CCDD0048A062 /* Main.storyboard */,
 				5BF95FA522D2CCDD0048A062 /* Assets.xcassets */,
 				5BF95FA722D2CCDD0048A062 /* LaunchScreen.storyboard */,
@@ -183,6 +197,12 @@
 		5BF95FD122D2EAE70048A062 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				5BF95FE622D300D70048A062 /* MLCItem.h */,
+				5BF95FE722D300D70048A062 /* MLCItem.m */,
+				5BF95FE822D300D70048A062 /* MLCSeller.h */,
+				5BF95FEA22D300D70048A062 /* MLCSeller.m */,
+				5BF95FE922D300D70048A062 /* MLCLocation.h */,
+				5BF95FEB22D300D70048A062 /* MLCLocation.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -456,9 +476,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BF95FED22D300D70048A062 /* MLCSeller.m in Sources */,
+				5BF95FF122D3015B0048A062 /* MLCConstants.m in Sources */,
 				5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */,
 				5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */,
+				5BF95FEE22D300D70048A062 /* MLCLocation.m in Sources */,
 				5BF95F9B22D2CCDD0048A062 /* main.m in Sources */,
+				5BF95FEC22D300D70048A062 /* MLCItem.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
