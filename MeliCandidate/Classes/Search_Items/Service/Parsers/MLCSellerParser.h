@@ -9,6 +9,9 @@
 #import <Foundation/Foundation.h>
 #import "MLCSeller.h"
 
+/**
+ A MLCSellerParser receive a JSON Dictionary , parse it  and on success vends an seller instance with basic information, otherwise returns an error
+ */
 
 @interface MLCSellerParser : NSObject
 

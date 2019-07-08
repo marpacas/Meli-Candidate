@@ -9,6 +9,10 @@
 #import <Foundation/Foundation.h>
 #import "MLCItem.h"
 
+/**
+ A MLCItemDetailParser receive a JSON Dictionary , parse it  and on success vends an item instance with detailed data, otherwise returns an error
+ */
+
 @interface MLCItemDetailParser : NSObject
 
 

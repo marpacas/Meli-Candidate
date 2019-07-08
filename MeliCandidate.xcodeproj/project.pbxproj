@@ -304,8 +304,8 @@
 			children = (
 				5BEF47A022D3B3F700D35599 /* MLCItemDetailService.h */,
 				5BEF47A122D3B3F700D35599 /* MLCItemDetailService.m */,
-				5BEF47A222D3B3F700D35599 /* MLCItemDetailParser.m */,
 				5BEF47A322D3B3F700D35599 /* MLCItemDetailParser.h */,
+				5BEF47A222D3B3F700D35599 /* MLCItemDetailParser.m */,
 			);
 			path = Service;
 			sourceTree = "<group>";

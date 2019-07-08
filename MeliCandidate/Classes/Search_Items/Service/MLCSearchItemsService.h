@@ -13,7 +13,9 @@
 /**
  A MLCSearchItemsService 
  Endpoint : http://api.mercadolibre.com/sites/MLA/search?q=
+ 
  Life Cycle
+ 
   - Set up endpoint
   - Perform data task
   - In the completion handler get a JSON object from the response data

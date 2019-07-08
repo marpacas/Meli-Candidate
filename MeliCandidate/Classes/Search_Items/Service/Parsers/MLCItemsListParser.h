@@ -9,6 +9,10 @@
 #import <Foundation/Foundation.h>
 #import "MLCItem.h"
 
+/**
+ A MLCItemsListParser receive a JSON Array , sends each object of the array to the item parser; on success vends a items list otherwise returns an error
+ */
+
 @interface MLCItemsListParser : NSObject
 
 @property(nonatomic,strong,nullable) NSArray <MLCItem*>* itemsList;

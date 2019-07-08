@@ -10,9 +10,9 @@
 #import "MLCItem.h"
 
 /**
- A MLCSearchItemsService
+ A MLCItemDetailService
  Endpoint : http://api.mercadolibre.com/items/:id
- Service Structure
+ Life Cycle
  - Set up the endpoint
  - Perform data task
  - In the completion handler get a JSON object from the response data
