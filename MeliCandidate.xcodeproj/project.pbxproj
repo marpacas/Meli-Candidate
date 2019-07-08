@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		5BEF479222D3992D00D35599 /* FormatterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479122D3992D00D35599 /* FormatterTests.m */; };
+		5BEF479C22D3B0F100D35599 /* MLCSearchItemsService.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479422D3B0F100D35599 /* MLCSearchItemsService.m */; };
+		5BEF479D22D3B0F100D35599 /* MLCItemParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479722D3B0F100D35599 /* MLCItemParser.m */; };
+		5BEF479E22D3B0F100D35599 /* MLCItemsListParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479922D3B0F100D35599 /* MLCItemsListParser.m */; };
+		5BEF479F22D3B0F100D35599 /* MLCSellerParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479B22D3B0F100D35599 /* MLCSellerParser.m */; };
 		5BF95F9B22D2CCDD0048A062 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9A22D2CCDD0048A062 /* main.m */; };
 		5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */; };
 		5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FA022D2CCDD0048A062 /* ViewController.m */; };
@@ -49,6 +53,14 @@
 
 /* Begin PBXFileReference section */
 		5BEF479122D3992D00D35599 /* FormatterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormatterTests.m; sourceTree = "<group>"; };
+		5BEF479322D3B0F000D35599 /* MLCSearchItemsService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCSearchItemsService.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF479422D3B0F100D35599 /* MLCSearchItemsService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCSearchItemsService.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF479622D3B0F100D35599 /* MLCItemParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemParser.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF479722D3B0F100D35599 /* MLCItemParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemParser.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF479822D3B0F100D35599 /* MLCItemsListParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemsListParser.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF479922D3B0F100D35599 /* MLCItemsListParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemsListParser.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF479A22D3B0F100D35599 /* MLCSellerParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCSellerParser.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF479B22D3B0F100D35599 /* MLCSellerParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCSellerParser.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeliCandidate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF95F9A22D2CCDD0048A062 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -111,6 +123,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5BEF479522D3B0F100D35599 /* Parsers */ = {
+			isa = PBXGroup;
+			children = (
+				5BEF479622D3B0F100D35599 /* MLCItemParser.h */,
+				5BEF479722D3B0F100D35599 /* MLCItemParser.m */,
+				5BEF479822D3B0F100D35599 /* MLCItemsListParser.h */,
+				5BEF479922D3B0F100D35599 /* MLCItemsListParser.m */,
+				5BEF479A22D3B0F100D35599 /* MLCSellerParser.h */,
+				5BEF479B22D3B0F100D35599 /* MLCSellerParser.m */,
+			);
+			path = Parsers;
+			sourceTree = "<group>";
+		};
 		5BF95F8D22D2CCDD0048A062 = {
 			isa = PBXGroup;
 			children = (
@@ -311,6 +336,9 @@
 		5BF95FDC22D2EAE70048A062 /* Service */ = {
 			isa = PBXGroup;
 			children = (
+				5BEF479322D3B0F000D35599 /* MLCSearchItemsService.h */,
+				5BEF479422D3B0F100D35599 /* MLCSearchItemsService.m */,
+				5BEF479522D3B0F100D35599 /* Parsers */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -503,15 +531,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BEF479C22D3B0F100D35599 /* MLCSearchItemsService.m in Sources */,
 				5BF95FF622D307A40048A062 /* MLCQuantityFormatter.m in Sources */,
 				5BF95FED22D300D70048A062 /* MLCSeller.m in Sources */,
 				5BF95FF122D3015B0048A062 /* MLCConstants.m in Sources */,
 				5BF95FF722D307A40048A062 /* MLCPriceFormatter.m in Sources */,
 				5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */,
+				5BEF479D22D3B0F100D35599 /* MLCItemParser.m in Sources */,
 				5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */,
 				5BF95FEE22D300D70048A062 /* MLCLocation.m in Sources */,
 				5BF95F9B22D2CCDD0048A062 /* main.m in Sources */,
 				5BF95FEC22D300D70048A062 /* MLCItem.m in Sources */,
+				5BEF479E22D3B0F100D35599 /* MLCItemsListParser.m in Sources */,
+				5BEF479F22D3B0F100D35599 /* MLCSellerParser.m in Sources */,
 				5BF95FFA22D308030048A062 /* MLCItemTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
