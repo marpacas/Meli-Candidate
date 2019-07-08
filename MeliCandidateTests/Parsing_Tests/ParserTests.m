@@ -7,8 +7,14 @@
 //
 
 #import <XCTest/XCTest.h>
+#import "MLCSellerParser.h"
 
 @interface ParserTests : XCTestCase
+
+@property(nonatomic,strong) NSString* invalidResourceToParse;
+@property(nonatomic,strong) NSString* validResourceToParse;
+@property(nonatomic,strong) NSDictionary* invalidJSONDictionary;
+@property(nonatomic,strong) NSDictionary* validJSONDictionary;
 
 @end
 
@@ -16,24 +22,87 @@
 
 - (void)setUp {
     [super setUp];
-    // Put setup code here. This method is called before the invocation of each test method in the class.
+    NSBundle* testBundle = [NSBundle bundleForClass:[self class]];
+    NSURL* invalidJSONURL = [testBundle URLForResource:self.invalidResourceToParse withExtension:@"plist"];
+    if (invalidJSONURL) {
+        self.invalidJSONDictionary = [NSDictionary dictionaryWithContentsOfURL:invalidJSONURL];
+        
+    }
+    NSURL* validJSONURL = [testBundle URLForResource:self.validResourceToParse withExtension:@"plist"];
+    if (validJSONURL) {
+        self.validJSONDictionary = [NSDictionary dictionaryWithContentsOfURL:validJSONURL];
+        
+    }
+}
+
+- (void)testParsingWhenInvalidJSON {
+}
+
+- (void)testParsingWhenValidJSON {
 }
 
 - (void)tearDown {
-    // Put teardown code here. This method is called after the invocation of each test method in the class.
     [super tearDown];
+    self.invalidResourceToParse = nil;
+    self.validResourceToParse = nil;
+    self.invalidJSONDictionary = nil;
+    self.validJSONDictionary = nil;
 }
 
-- (void)testExample {
-    // This is an example of a functional test case.
-    // Use XCTAssert and related functions to verify your tests produce the correct results.
+@end
+
+
+//Seller Parser
+@interface SellerParserTests : ParserTests
+
+@property(nonatomic,strong) MLCSellerParser* sellerParser;
+
+@end
+
+@implementation SellerParserTests
+
+- (void)setUp {
+    self.invalidResourceToParse = @"InvalidSeller";
+    self.validResourceToParse = @"ValidSeller";
+    [super setUp];
+    
 }
 
-- (void)testPerformanceExample {
-    // This is an example of a performance test case.
-    [self measureBlock:^{
-        // Put the code you want to measure the time of here.
-    }];
+- (void)tearDown {
+    [super tearDown];
+    self.sellerParser = nil;
+    
+}
+
+- (void)testParsingWhenInvalidJSON {
+    if (self.invalidJSONDictionary) {
+        self.sellerParser = [[MLCSellerParser alloc] initWithJSONDictionary:self.invalidJSONDictionary];
+        
+        NSError* error = [self.sellerParser getBasicInfoForSellerFromJSONDictionary];
+        
+        XCTAssertNotNil(error, @"Seller Parser doesn't throw an error parsing JSON with unexpected values");
+        XCTAssertNil(self.sellerParser.seller, @"Seller Parser could parse JSON with unexpected values");
+    }
+    else {
+        XCTFail(@"Missing file: InvalidSeller.plist");
+    }
+    
+}
+
+
+- (void)testParsingWhenValidJSON {
+    if (self.validJSONDictionary) {
+        self.sellerParser = [[MLCSellerParser alloc] initWithJSONDictionary:self.validJSONDictionary];
+        
+        NSError* error = [self.sellerParser getBasicInfoForSellerFromJSONDictionary];
+        
+        XCTAssertNotNil(self.sellerParser.seller, @"Valid JSON was not parsed successfully by Seller Parser");
+        XCTAssertNil(error, @"Seller Parser  throws  an error parsing valid JSON");
+    }
+    else {
+        XCTFail(@"Missing file: ValidSeller.plist");
+    }
+    
 }
 
 @end

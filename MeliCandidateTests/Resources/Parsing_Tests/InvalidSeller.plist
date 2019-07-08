@@ -2,9 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>id</key>
-	<string>MLA12</string>
-	<key>sold_quantity</key>
-	<string>12</string>
+	<key>Item1</key>
+	<string>Value 1</string>
+	<key>Item2</key>
+	<string>Value 2</string>
 </dict>
 </plist>

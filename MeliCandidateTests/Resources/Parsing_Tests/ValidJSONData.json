@@ -1,0 +1,5806 @@
+{
+"site_id": "MLU",
+"query": "chromecast",
+"paging": {
+"total": 255,
+"offset": 0,
+"limit": 50,
+"primary_results": 255
+},
+"results": [
+{
+"id": "MLU447543128",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Garantia 2 Años Smart Tv Netflix - Otec",
+"seller": {
+"id": 163115426,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 1929,
+"currency_id": "UYU",
+"available_quantity": 150,
+"sold_quantity": 250,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-05-16T02:34:14.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-447543128-google-chromecast-3-garantia-2-anos-smart-tv-netflix-otec-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/628772-MLU31242544139_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 107.17,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ1RSRTg3OGM3",
+"city_name": "Tres Cruces"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "not_specified",
+"tags": [
+"me2_available"
+],
+"logistic_type": "not_specified",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ1RSRTg3OGM3",
+"name": "Tres Cruces"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null
+},
+{
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea"
+},
+{
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 4709228965570453,
+"id": "MODEL"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_thumbnail",
+"good_quality_picture",
+"immediate_payment"
+]
+},
+{
+"id": "MLU445072353",
+"site_id": "MLU",
+"title": "Nuevo Google Chromecast 3 Smart Tv Hdmi",
+"seller": {
+"id": 164945049,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 52,
+"currency_id": "USD",
+"available_quantity": 5000,
+"sold_quantity": 500,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-03-26T21:05:41.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-445072353-nuevo-google-chromecast-3-smart-tv-hdmi-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/796048-MLU31241722650_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 103.25,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875
+},
+{
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+},
+{
+"attribute_group_name": "Otros",
+"source": 4709228965570453,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+}
+],
+"original_price": 55,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU450631379",
+"site_id": "MLU",
+"title": "Chromecast 3 Google Último Modelo. Tsuy",
+"seller": {
+"id": 191149224,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 53,
+"currency_id": "USD",
+"available_quantity": 500,
+"sold_quantity": 250,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-12-30T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-450631379-chromecast-3-google-ultimo-modelo-tsuy-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/752396-MLU31243493863_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 105.23,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND"
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "49506",
+"value_name": "3"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"dragged_bids_and_visits",
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU456337609",
+"site_id": "MLU",
+"title": "Google Chromecast 3ra Generacion Color Negro Futuro21",
+"seller": {
+"id": 97669372,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 54,
+"currency_id": "USD",
+"available_quantity": 50,
+"sold_quantity": 500,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-09-08T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-456337609-google-chromecast-3ra-generacion-color-negro-futuro21-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/876740-MLU31254576588_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 107.22,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0pBQzJiODI2",
+"city_name": "Jacinto Vera"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": true
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0pBQzJiODI2",
+"name": "Jacinto Vera"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo"
+},
+{
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"name": "Modelo",
+"value_id": "168517",
+"value_name": "Chromecast Audio",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "MODEL"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU6121640",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"dragged_bids_and_visits",
+"immediate_payment"
+]
+},
+{
+"id": "MLU461830818",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Smart Tv Wifi Celular Netflix Youtube",
+"seller": {
+"id": 66225215,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 54,
+"currency_id": "USD",
+"available_quantity": 500,
+"sold_quantity": 100,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-03-22T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-461830818-google-chromecast-3-smart-tv-wifi-celular-netflix-youtube-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/632126-MLU31246734501_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 107.22,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 5317105055790114
+},
+{
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+},
+{
+"id": "MODEL",
+"name": "Modelo",
+"value_id": null,
+"value_name": "Chromecast 3",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 5317105055790114
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU451718569",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Convertidor Smart Tv 2 Años Garantia",
+"seller": {
+"id": 75950568,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 1949,
+"currency_id": "UYU",
+"available_quantity": 50,
+"sold_quantity": 250,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-03-01T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-451718569-google-chromecast-3-convertidor-smart-tv-2-anos-garantia-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/668016-MLU31243979311_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 108.28,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0FHVWUwMzc3",
+"city_name": "Aguada"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0FHVWUwMzc3",
+"name": "Aguada"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo"
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+},
+{
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 4709228965570453,
+"id": "MODEL"
+}
+],
+"original_price": 2052,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU453619010",
+"site_id": "MLU",
+"title": "Google Chromecast 3ra Generacion Color Negro Dimm",
+"seller": {
+"id": 97669372,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 53,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 50,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-05-14T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-453619010-google-chromecast-3ra-generacion-color-negro-dimm-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/789079-MLU31254586152_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 105.23,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0pBQzJiODI2",
+"city_name": "Jacinto Vera"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": true
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0pBQzJiODI2",
+"name": "Jacinto Vera"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION"
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "168517",
+"value_name": "Chromecast Audio",
+"value_struct": null
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU6121640",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU444932078",
+"site_id": "MLU",
+"title": "Google Chromecast 2 Full Hd 1080p 2 Gb Wifi Hdmi Amv",
+"seller": {
+"id": 133148686,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 48,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 100,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-03-22T20:11:32.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-444932078-google-chromecast-2-full-hd-1080p-2-gb-wifi-hdmi-amv-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/682339-MLU31241481062_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 95.31,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND"
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU455327162",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Smart Tv Netflix Y+ Gtia 2 Años Febo",
+"seller": {
+"id": 33173051,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 2490,
+"currency_id": "UYU",
+"available_quantity": 50000,
+"sold_quantity": 250,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-07-22T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-455327162-google-chromecast-3-smart-tv-netflix-y-gtia-2-anos-febo-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/641966-MLU31244985283_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 138.33,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND"
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast"
+},
+{
+"attribute_group_name": "Otros",
+"source": 4709228965570453,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU455015308",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Streaming Media Player Oferta Especial",
+"seller": {
+"id": 44372023,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 59,
+"currency_id": "USD",
+"available_quantity": 500,
+"sold_quantity": 200,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-07-08T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-455015308-google-chromecast-3-streaming-media-player-oferta-especial-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/709923-MLU31244934650_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 117.15,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND"
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816"
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 4709228965570453,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU458590935",
+"site_id": "MLU",
+"title": "Google Chromecast 3ra Generacion Color Negro Futuro21 Dimm",
+"seller": {
+"id": 97669372,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 53,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 25,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-11-19T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-458590935-google-chromecast-3ra-generacion-color-negro-futuro21-dimm-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/909376-MLU31254582160_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 105.23,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0pBQzJiODI2",
+"city_name": "Jacinto Vera"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": true
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0pBQzJiODI2",
+"name": "Jacinto Vera"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast"
+},
+{
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "168517",
+"value_name": "Chromecast Audio",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU463085994",
+"site_id": "MLU",
+"title": "Google Chromecast 3ra Generación - Mobilestore",
+"seller": {
+"id": 151343410,
+"power_seller_status": null,
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 53,
+"currency_id": "USD",
+"available_quantity": 250,
+"sold_quantity": 25,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-05-04T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-463085994-google-chromecast-3ra-generacion-mobilestore-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/837946-MLU30402423396_052019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 105.23,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "custom",
+"tags": [
+],
+"logistic_type": "custom",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"id": "ALPHANUMERIC_MODEL",
+"name": "Modelo alfanumérico",
+"value_id": "-1",
+"value_name": null,
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861
+},
+{
+"source": 3376461333454861,
+"id": "BRAND",
+"name": "Marca",
+"value_id": null,
+"value_name": "Google Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"value_name": null,
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861,
+"id": "LINE",
+"name": "Línea",
+"value_id": "-1"
+},
+{
+"value_name": "3ra Generación",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": null
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU451718403",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Convertidor Smart Tv Para Netflix Y Mas",
+"seller": {
+"id": 244432915,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 60,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 200,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-03-01T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-451718403-google-chromecast-3-convertidor-smart-tv-para-netflix-y-mas-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/797806-MLU31244028307_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 119.13,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0FHVWUwMzc3",
+"city_name": "Aguada"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0FHVWUwMzc3",
+"name": "Aguada"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION"
+},
+{
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea"
+},
+{
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 4709228965570453
+}
+],
+"original_price": 64,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_thumbnail",
+"good_quality_picture"
+]
+},
+{
+"id": "MLU456349311",
+"site_id": "MLU",
+"title": "Google Chromecast Ultra 4k, Macrotec",
+"seller": {
+"id": 127292708,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 115,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-09-09T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-456349311-google-chromecast-ultra-4k-macrotec-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/648967-MLU31296776873_072019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 228.34,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701"
+},
+{
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION"
+},
+{
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea"
+},
+{
+"name": "Modelo",
+"value_id": "402606",
+"value_name": "Chromecast Ultra",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "MODEL"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU6304839",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU447280522",
+"site_id": "MLU",
+"title": "Google Chromecast 2 Wifi Converti Smart Tu Tv O Monitor",
+"seller": {
+"id": 66225215,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 1750,
+"currency_id": "UYU",
+"available_quantity": 500,
+"sold_quantity": 50,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-06-27T20:13:52.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-447280522-google-chromecast-2-wifi-converti-smart-tu-tv-o-monitor-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/818784-MLU31242486731_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 97.22,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": true,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1577,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google"
+},
+{
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1
+},
+{
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"name": "Modelo",
+"value_id": null,
+"value_name": "Chromecast 2",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1577,
+"id": "MODEL"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU445592978",
+"site_id": "MLU",
+"title": "Miracast Tv Mirascreen Tipo Chromecast Compat. Android Wifi",
+"seller": {
+"id": 77926620,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 890,
+"currency_id": "UYU",
+"available_quantity": 500,
+"sold_quantity": 100,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-04-12T12:18:18.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-445592978-miracast-tv-mirascreen-tipo-chromecast-compat-android-wifi-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/753686-MLU31241931082_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 49.44,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NJVTk5MTU",
+"city_name": "Ciudad Vieja"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": true
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NJVTk5MTU",
+"name": "Ciudad Vieja"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_id": "-1",
+"value_name": null,
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861,
+"id": "ALPHANUMERIC_MODEL",
+"name": "Modelo alfanumérico"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "4812724",
+"value_name": "MiraScreen"
+},
+{
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": null,
+"value_name": "MX",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861
+},
+{
+"name": "Modelo",
+"value_id": null,
+"value_name": "MX",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861,
+"id": "MODEL"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU452329282",
+"site_id": "MLU",
+"title": "Google Chromecast 2018 Importados Sellado Tienda Easybuy",
+"seller": {
+"id": 261323861,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 65,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 200,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-03-30T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-452329282-google-chromecast-2018-importados-sellado-tienda-easybuy-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/880029-MLU31244042983_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 129.06,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo"
+},
+{
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU460268194",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Gen -gtia 1año Tiendazero",
+"seller": {
+"id": 114604057,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 56.99,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-01-30T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-460268194-google-chromecast-3-gen-gtia-1ano-tiendazero-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/653980-MLU31246502141_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 113.16,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ1JFRDg3YzQy",
+"city_name": "Reducto"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ1JFRDg3YzQy",
+"name": "Reducto"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 4709228965570453,
+"id": "MODEL"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU454167780",
+"site_id": "MLU",
+"title": "Google Chromecast 2 Ph Ventas",
+"seller": {
+"id": 148701165,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 1800,
+"currency_id": "UYU",
+"available_quantity": 1,
+"sold_quantity": 50,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-06-07T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-454167780-google-chromecast-2-ph-ventas-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/832619-MLU26631523676_012018-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 100,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ1BSQTYwOTJl",
+"city_name": "Prado"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ1BSQTYwOTJl",
+"name": "Prado"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND"
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"dragged_bids_and_visits",
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU459152804",
+"site_id": "MLU",
+"title": "Smart Tv Cast Google Chromecast Full Hd Wifi Musica Video ®",
+"seller": {
+"id": 205114401,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 2099,
+"currency_id": "UYU",
+"available_quantity": 5000,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-12-08T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-459152804-smart-tv-cast-google-chromecast-full-hd-wifi-musica-video--_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/811466-MLU31246209534_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 116.61,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU447280526",
+"site_id": "MLU",
+"title": "Google Chromecast 2 Full Hd Wifi Smart Youtube Netflix Y Mas",
+"seller": {
+"id": 66225215,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 45,
+"currency_id": "USD",
+"available_quantity": 500,
+"sold_quantity": 25,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-06-27T20:13:49.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-447280526-google-chromecast-2-full-hd-wifi-smart-youtube-netflix-y-mas-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/821640-MLU31318327135_072019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 89.35,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1577,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1577,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1577,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": null,
+"value_name": "Chromecast",
+"value_struct": null
+}
+],
+"original_price": 54,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU445492323",
+"site_id": "MLU",
+"title": "Anycast M2 Chromecast Sharecast Dongle Gran Oferta!!!!!",
+"seller": {
+"id": 45709968,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 35,
+"currency_id": "USD",
+"available_quantity": 50,
+"sold_quantity": 150,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-04-21T02:25:17.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-445492323-anycast-m2-chromecast-sharecast-dongle-gran-oferta-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/892818-MLU31241927002_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 69.49,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NBUmRhYWU0",
+"city_name": "Carrasco"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "custom",
+"tags": [
+"me2_available"
+],
+"logistic_type": "custom",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NBUmRhYWU0",
+"name": "Carrasco"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca"
+},
+{
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284"
+},
+{
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"dragged_bids_and_visits",
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU459303910",
+"site_id": "MLU",
+"title": "Google Chromecast Ultra 4k Importados Sellado Easybuy",
+"seller": {
+"id": 261323861,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 119,
+"currency_id": "USD",
+"available_quantity": 50,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-12-16T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-459303910-google-chromecast-ultra-4k-importados-sellado-easybuy-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/724251-MLU31246262502_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 236.28,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null
+},
+{
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION"
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "402606",
+"value_name": "Chromecast Ultra",
+"value_struct": null
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU6304839",
+"tags": [
+"good_quality_thumbnail",
+"good_quality_picture",
+"immediate_payment"
+]
+},
+{
+"id": "MLU445754010",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Hdmi 1080p Nuevo Modelo Oferta Amv",
+"seller": {
+"id": 133148686,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 59,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 200,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-04-15T22:36:20.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-445754010-google-chromecast-3-hdmi-1080p-nuevo-modelo-oferta-amv-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/724554-MLU31242083132_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 117.15,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875
+},
+{
+"source": 4741688263335049,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"dragged_bids_and_visits",
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU460795196",
+"site_id": "MLU",
+"title": "Kit Google Smart Tv Chromecast 3 Y Google Home Mini Amv",
+"seller": {
+"id": 133148686,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 109,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 4,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-02-19T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-460795196-kit-google-smart-tv-chromecast-3-y-google-home-mini-amv-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/625352-MLU31246517436_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 216.43,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca"
+},
+{
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU453862993",
+"site_id": "MLU",
+"title": "Chromecast Google Smart Tv Hdmi Netflix + Envios Gratis",
+"seller": {
+"id": 195383802,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 50,
+"currency_id": "USD",
+"available_quantity": 5000,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-05-24T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-453862993-chromecast-google-smart-tv-hdmi-netflix-envios-gratis-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/609078-MLU31370105768_072019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 99.28,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": true,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU460427316",
+"site_id": "MLU",
+"title": "Google Chromecast Hdmi Streaming Media Player",
+"seller": {
+"id": 284478807,
+"power_seller_status": "gold",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 1790,
+"currency_id": "UYU",
+"available_quantity": 50,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-02-06T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-460427316-google-chromecast-hdmi-streaming-media-player-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/812290-MLU31246475221_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 99.44,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0xBQzU0NjU",
+"city_name": "La Comercial"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0xBQzU0NjU",
+"name": "La Comercial"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3366419368865984,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "-1",
+"value_name": null,
+"value_struct": null
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_name": null,
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3366419368865984,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "-1"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_thumbnail",
+"good_quality_picture",
+"immediate_payment"
+]
+},
+{
+"id": "MLU444123344",
+"site_id": "MLU",
+"title": "Chromecast Smart Tv Wi Fi En Tu Tv Nuevos 1 Año Garantia Pcm",
+"seller": {
+"id": 64834284,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 63,
+"currency_id": "USD",
+"available_quantity": 500,
+"sold_quantity": 25,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-03-27T00:39:24.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-444123344-chromecast-smart-tv-wi-fi-en-tu-tv-nuevos-1-ano-garantia-pcm-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/888895-MLU31240791235_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 125.09,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo"
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"dragged_bids_and_visits"
+]
+},
+{
+"id": "MLU459925733",
+"site_id": "MLU",
+"title": "Google Chromecast Streaming Player Nuevo",
+"seller": {
+"id": 103698554,
+"power_seller_status": null,
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 49.99,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-01-17T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-459925733-google-chromecast-streaming-player-nuevo-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/886107-MLU31246429620_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 99.26,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0FHVWUwMzc3",
+"city_name": "Aguada"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0FHVWUwMzc3",
+"name": "Aguada"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"id": "BRAND",
+"name": "Marca",
+"value_id": null,
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 4741688263335049
+},
+{
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1
+},
+{
+"source": 4741688263335049,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": null,
+"value_name": "H2G2-42",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_thumbnail",
+"good_quality_picture"
+]
+},
+{
+"id": "MLU455164763",
+"site_id": "MLU",
+"title": "Google Chromecast Ultra 4k Tv Video Netflix Nuevo Zonalaptop",
+"seller": {
+"id": 116416051,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 125,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-07-15T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-455164763-google-chromecast-ultra-4k-tv-video-netflix-nuevo-zonalaptop-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/881012-MLU31244949717_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 248.19,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ1BPQzIwNDU",
+"city_name": "Pocitos Nuevo"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ1BPQzIwNDU",
+"name": "Pocitos Nuevo"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701"
+},
+{
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION"
+},
+{
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea"
+},
+{
+"value_name": "Chromecast Ultra",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "402606"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU6304839",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU461778341",
+"site_id": "MLU",
+"title": "Smart Tv Kit Chormcast 3 + Home Mini Asis. Voz Easybuy",
+"seller": {
+"id": 261323861,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 98,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 3,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-03-21T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-461778341-smart-tv-kit-chormcast-3-home-mini-asis-voz-easybuy-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/825222-MLU31370170385_072019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 194.58,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "not_specified",
+"tags": [
+"me2_available"
+],
+"logistic_type": "not_specified",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1183438784296846,
+"id": "BRAND"
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU443723041",
+"site_id": "MLU",
+"title": "Chromecast Sharecast Anycast M2 Plus Ml 217",
+"seller": {
+"id": 61721220,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 1150,
+"currency_id": "UYU",
+"available_quantity": 1,
+"sold_quantity": 100,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-03-22T18:29:11.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-443723041-chromecast-sharecast-anycast-m2-plus-ml-217-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/930448-MLU31240558284_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 63.89,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"dragged_bids_and_visits",
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU448641166",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Gen -gtia 1año + Envio Gratis Tiendazero",
+"seller": {
+"id": 114604057,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 64.99,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 50,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-09-14T14:41:30.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-448641166-google-chromecast-3-gen-gtia-1ano-envio-gratis-tiendazero-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/780982-MLU31242798062_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 129.04,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ1JFRDg3YzQy",
+"city_name": "Reducto"
+},
+"shipping": {
+"free_shipping": true,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ1JFRDg3YzQy",
+"name": "Reducto"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"id": "ALPHANUMERIC_MODEL",
+"name": "Modelo alfanumérico",
+"value_id": "-1",
+"value_name": null,
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861
+},
+{
+"source": 3376461333454861,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast"
+},
+{
+"name": "Modelo",
+"value_id": null,
+"value_name": "Chromecast 3",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 3376461333454861,
+"id": "MODEL"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU444782350",
+"site_id": "MLU",
+"title": "Google Chromecast Full Hd 1080p Wifi, Tv En Smart, Macrotec",
+"seller": {
+"id": 127292708,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 45,
+"currency_id": "USD",
+"available_quantity": 50,
+"sold_quantity": 250,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-06-21T20:30:58.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-444782350-google-chromecast-full-hd-1080p-wifi-tv-en-smart-macrotec-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/672026-MLU31166948433_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 89.35,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 5064846424095813,
+"id": "BRAND",
+"name": "Marca"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo"
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_thumbnail",
+"dragged_bids_and_visits",
+"good_quality_picture"
+]
+},
+{
+"id": "MLU457743085",
+"site_id": "MLU",
+"title": "Google Smart Tv Kit Chromecast Y Home + Envios Gratis",
+"seller": {
+"id": 195383802,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 119,
+"currency_id": "USD",
+"available_quantity": 5000,
+"sold_quantity": 3,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-10-24T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-457743085-google-smart-tv-kit-chromecast-y-home-envios-gratis-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/874968-MLU31246096986_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 236.28,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": true,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU460193538",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Reproductor Multimedia Hdmi Wi Zonatecno",
+"seller": {
+"id": 43831324,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 69,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 2,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-01-26T19:24:52.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-460193538-google-chromecast-3-reproductor-multimedia-hdmi-wi-zonatecno-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/723601-MLU31246533016_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 137,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": null,
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": null,
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701"
+},
+{
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION"
+},
+{
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea"
+},
+{
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 4709228965570453
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": 628,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_thumbnail",
+"good_quality_picture"
+]
+},
+{
+"id": "MLU450822665",
+"site_id": "MLU",
+"title": "Chromecast Google Hdmi Tv A Smart Netflix + Envios Gratis",
+"seller": {
+"id": 195383802,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 59,
+"currency_id": "USD",
+"available_quantity": 5000,
+"sold_quantity": 50,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-10-07T13:04:03.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-450822665-chromecast-google-hdmi-tv-a-smart-netflix-envios-gratis-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/982217-MLU31243663148_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 117.15,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": true,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875
+},
+{
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"dragged_bids_and_visits",
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU459584443",
+"site_id": "MLU",
+"title": "Google Chromecast 3ra Gen 2019 Netflix Youtube Tv A Smart",
+"seller": {
+"id": 77386555,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 61,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-01-03T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-459584443-google-chromecast-3ra-gen-2019-netflix-youtube-tv-a-smart-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/793526-MLU29122255668_012019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 121.12,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google"
+},
+{
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+}
+],
+"original_price": 65,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU459152780",
+"site_id": "MLU",
+"title": "Smart Tv Google Chromecast Hdmi Full Hd Netflix Youtube ® Ty",
+"seller": {
+"id": 205114401,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 54.9,
+"currency_id": "USD",
+"available_quantity": 5000,
+"sold_quantity": 25,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-12-08T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-459152780-smart-tv-google-chromecast-hdmi-full-hd-netflix-youtube-ty-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/792005-MLU31246274739_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 109.01,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU455736882",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Netflix Youtube Smart Tv Gtia 1 Año ® Ty",
+"seller": {
+"id": 205114401,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 69,
+"currency_id": "USD",
+"available_quantity": 50,
+"sold_quantity": 4,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-08-12T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-455736882-google-chromecast-3-netflix-youtube-smart-tv-gtia-1-ano-ty-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/693988-MLU31245470628_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 137,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND"
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null
+},
+{
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea"
+},
+{
+"attribute_group_name": "Otros",
+"source": 4709228965570453,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "6231316",
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU448305637",
+"site_id": "MLU",
+"title": "Ff Google Chromecast 2 Hdmi Streaming Media Player Smart Tv",
+"seller": {
+"id": 5517756,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 2590,
+"currency_id": "UYU",
+"available_quantity": 50000,
+"sold_quantity": 2,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-08-24T18:59:08.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-448305637-ff-google-chromecast-2-hdmi-streaming-media-player-smart-tv-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/648855-MLU31242900586_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 143.89,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0FHVWUwMzc3",
+"city_name": "Aguada"
+},
+"shipping": {
+"free_shipping": true,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0FHVWUwMzc3",
+"name": "Aguada"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google"
+},
+{
+"source": null,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU444827263",
+"site_id": "MLU",
+"title": "Google Chromecast 2 Música Video Netflix Youtube Nuevo Nnet",
+"seller": {
+"id": 77386555,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 60,
+"currency_id": "USD",
+"available_quantity": 500,
+"sold_quantity": 250,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-03-19T09:51:39.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-444827263-google-chromecast-2-musica-video-netflix-youtube-nuevo-nnet-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/618638-MLU31241447460_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 119.13,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo"
+},
+{
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU455736850",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Hdmi Full Hd 1080p Wifi Netflix Youtube®",
+"seller": {
+"id": 205114401,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 69,
+"currency_id": "USD",
+"available_quantity": 50,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-08-12T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-455736850-google-chromecast-3-hdmi-full-hd-1080p-wifi-netflix-youtube-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/791160-MLU31245283038_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 137,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null
+},
+{
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU462036759",
+"site_id": "MLU",
+"title": "Google Chromecast 3ra Generacion - Netflix - Smart Tv - Lcm",
+"seller": {
+"id": 1865372,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 69,
+"currency_id": "USD",
+"available_quantity": 500,
+"sold_quantity": 1,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-03-27T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-462036759-google-chromecast-3ra-generacion-netflix-smart-tv-lcm-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/674571-MLU31246696771_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 137,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "custom",
+"tags": [
+"me2_available"
+],
+"logistic_type": "custom",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca"
+},
+{
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284"
+},
+{
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU448423563",
+"site_id": "MLU",
+"title": "Google Chromecast 3 Full Hd 1080p Reproductor Streaming Wifi",
+"seller": {
+"id": 27985566,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 72,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 2,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-03-28T14:08:14.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-448423563-google-chromecast-3-full-hd-1080p-reproductor-streaming-wifi-_JM",
+"thumbnail": "http://mlu-s2-p.mlstatic.com/894174-MLU31242869103_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 142.96,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875
+},
+{
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": null
+},
+{
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU446148402",
+"site_id": "MLU",
+"title": "Reproductor Google Chromecast 2 Hdmi Nuevo Tranza Uruguay",
+"seller": {
+"id": 122912759,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 69.98,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2037-08-03T06:43:54.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-446148402-reproductor-google-chromecast-2-hdmi-nuevo-tranza-uruguay-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/714871-MLU31242093564_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 138.95,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0FHVWUwMzc3",
+"city_name": "Aguada"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0FHVWUwMzc3",
+"name": "Aguada"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google"
+},
+{
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU460528148",
+"site_id": "MLU",
+"title": "Chromecast Ultra ",
+"seller": {
+"id": 1252727,
+"power_seller_status": "silver",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 135,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 1,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-02-11T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-460528148-chromecast-ultra-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/636296-MLU31246525704_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 268.05,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0pBQzJiODI2",
+"city_name": "Jacinto Vera"
+},
+"shipping": {
+"free_shipping": true,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0pBQzJiODI2",
+"name": "Jacinto Vera"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701"
+},
+{
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast"
+},
+{
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "402606",
+"value_name": "Chromecast Ultra",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU6304839",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+},
+{
+"id": "MLU462538972",
+"site_id": "MLU",
+"title": "Google Chromecast 3, Nuevo, Con Garantía Y Factura, Macrotec",
+"seller": {
+"id": 127292708,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 64,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 1,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2039-04-12T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-462538972-google-chromecast-3-nuevo-con-garantia-y-factura-macrotec-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/719862-MLU29985397897_042019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 127.08,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NPUjZmZjNm",
+"city_name": "Cordón"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NPUjZmZjNm",
+"name": "Cordón"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null,
+"attribute_group_id": "OTHERS"
+},
+{
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo"
+},
+{
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea",
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+},
+{
+"value_name": "Chromecast (3rd Generation)",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 4709228965570453,
+"id": "MODEL",
+"name": "Modelo",
+"value_id": "6231316"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": "MLU13841392",
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU458073062",
+"site_id": "MLU",
+"title": "Ezcast Mele S3 Espejo Multimedia 1080p Hdmi Simil Chromecast",
+"seller": {
+"id": 205114401,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 44,
+"currency_id": "USD",
+"available_quantity": 1,
+"sold_quantity": 3,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-11-04T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-458073062-ezcast-mele-s3-espejo-multimedia-1080p-hdmi-simil-chromecast-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/809894-MLU31246041575_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 87.36,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"source": 1572,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail"
+]
+},
+{
+"id": "MLU453356290",
+"site_id": "MLU",
+"title": "Google Chromecast Hdmi Streaming Media Player - Ub",
+"seller": {
+"id": 83798950,
+"power_seller_status": "platinum",
+"car_dealer": false,
+"real_estate_agency": false,
+"tags": [
+]
+},
+"price": 1799,
+"currency_id": "UYU",
+"available_quantity": 1,
+"sold_quantity": 5,
+"buying_mode": "buy_it_now",
+"listing_type_id": "gold_special",
+"stop_time": "2038-05-02T04:00:00.000Z",
+"condition": "new",
+"permalink": "https://articulo.mercadolibre.com.uy/MLU-453356290-google-chromecast-hdmi-streaming-media-player-ub-_JM",
+"thumbnail": "http://mlu-s1-p.mlstatic.com/746461-MLU31244226418_062019-I.jpg",
+"accepts_mercadopago": true,
+"installments": {
+"quantity": 18,
+"amount": 99.94,
+"rate": 0,
+"currency_id": "UYU"
+},
+"address": {
+"state_id": "UY-MO",
+"state_name": "Montevideo",
+"city_id": "TUxVQ0NFTjVjMTM",
+"city_name": "Centro"
+},
+"shipping": {
+"free_shipping": false,
+"mode": "me2",
+"tags": [
+],
+"logistic_type": "drop_off",
+"store_pick_up": false
+},
+"seller_address": {
+"id": "",
+"comment": "",
+"address_line": "",
+"zip_code": "",
+"country": {
+"id": "UY",
+"name": "Uruguay"
+},
+"state": {
+"id": "UY-MO",
+"name": "Montevideo"
+},
+"city": {
+"id": "TUxVQ0NFTjVjMTM",
+"name": "Centro"
+},
+"latitude": "",
+"longitude": ""
+},
+"attributes": [
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 8492822877720875,
+"id": "BRAND",
+"name": "Marca",
+"value_id": "52701",
+"value_name": "Google",
+"value_struct": null
+},
+{
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1,
+"id": "ITEM_CONDITION",
+"name": "Condición del ítem",
+"value_id": "2230284",
+"value_name": "Nuevo",
+"value_struct": null
+},
+{
+"value_id": "340816",
+"value_name": "Chromecast",
+"value_struct": null,
+"attribute_group_id": "OTHERS",
+"attribute_group_name": "Otros",
+"source": 1000427007642219,
+"id": "LINE",
+"name": "Línea"
+}
+],
+"original_price": null,
+"category_id": "MLU176997",
+"official_store_id": null,
+"catalog_product_id": null,
+"tags": [
+"good_quality_picture",
+"good_quality_thumbnail",
+"immediate_payment"
+]
+}
+],
+"secondary_results": [
+],
+"related_results": [
+],
+"sort": {
+"id": "relevance",
+"name": "More relevant"
+},
+"available_sorts": [
+{
+"id": "price_asc",
+"name": "Lower price"
+},
+{
+"id": "price_desc",
+"name": "Higher price"
+}
+],
+"filters": [
+{
+"id": "category",
+"name": "Categories",
+"type": "text",
+"values": [
+{
+"id": "MLU176997",
+"name": "Streaming Players",
+"path_from_root": [
+{
+"id": "MLU1000",
+"name": "Electrónica, Audio y Video"
+},
+{
+"id": "MLU3690",
+"name": "Accesorios para Audio y Video"
+},
+{
+"id": "MLU176997",
+"name": "Streaming Players"
+}
+]
+}
+]
+}
+],
+"available_filters": [
+{
+"id": "official_store",
+"name": "Tiendas oficiales",
+"type": "text",
+"values": [
+{
+"id": "all",
+"name": "Todas las tiendas oficiales",
+"results": 13
+},
+{
+"id": "520",
+"name": "Ebay",
+"results": 6
+},
+{
+"id": "243",
+"name": "Multi Ahorro Hogar",
+"results": 1
+},
+{
+"id": "45",
+"name": "Gigabyte",
+"results": 1
+},
+{
+"id": "48",
+"name": "Via Confort",
+"results": 1
+},
+{
+"id": "564",
+"name": "Office 2000",
+"results": 1
+},
+{
+"id": "628",
+"name": "ZonaTecno",
+"results": 1
+}
+]
+},
+{
+"id": "discount",
+"name": "Discounts",
+"type": "range",
+"values": [
+{
+"id": "10-100",
+"name": "From 10% off",
+"results": 2
+}
+]
+},
+{
+"id": "state",
+"name": "Location",
+"type": "text",
+"values": [
+{
+"id": "UY-MO",
+"name": "Montevideo",
+"results": 238
+},
+{
+"id": "UY-CA",
+"name": "Canelones",
+"results": 9
+},
+{
+"id": "UY-PA",
+"name": "Paysandú",
+"results": 2
+},
+{
+"id": "UY-TA",
+"name": "Tacuarembó",
+"results": 2
+},
+{
+"id": "UY-CL",
+"name": "Cerro Largo",
+"results": 1
+},
+{
+"id": "UY-CO",
+"name": "Colonia",
+"results": 1
+},
+{
+"id": "UY-MA",
+"name": "Maldonado",
+"results": 1
+},
+{
+"id": "UY-RO",
+"name": "Rocha",
+"results": 1
+}
+]
+},
+{
+"id": "price",
+"name": "Precio",
+"type": "range",
+"values": [
+{
+"id": "*-2000.0",
+"name": "Up to $2.000",
+"results": 65
+},
+{
+"id": "2000.0-2500.0",
+"name": "$2.000 to $2.500",
+"results": 91
+},
+{
+"id": "2500.0-*",
+"name": "More than $2.500",
+"results": 99
+}
+]
+},
+{
+"id": "accepts_mercadopago",
+"name": "MercadoPago filter",
+"type": "boolean",
+"values": [
+{
+"id": "yes",
+"name": "With MercadoPago",
+"results": 255
+}
+]
+},
+{
+"id": "installments",
+"name": "Pago",
+"type": "text",
+"values": [
+{
+"id": "yes",
+"name": "Installments",
+"results": 255
+}
+]
+},
+{
+"id": "condition",
+"name": "Condición",
+"type": "text",
+"values": [
+{
+"id": "new",
+"name": "New",
+"results": 248
+},
+{
+"id": "used",
+"name": "Used",
+"results": 7
+}
+]
+},
+{
+"id": "shipping",
+"name": "Envío",
+"type": "text",
+"values": [
+{
+"id": "mercadoenvios",
+"name": "Mercado Envíos",
+"results": 164
+}
+]
+},
+{
+"id": "power_seller",
+"name": "Seller quality filter",
+"type": "boolean",
+"values": [
+{
+"id": "yes",
+"name": "Best sellers",
+"results": 182
+}
+]
+},
+{
+"id": "since",
+"name": "Auction start date filter",
+"type": "text",
+"values": [
+{
+"id": "today",
+"name": "Publicados hoy",
+"results": 2
+}
+]
+},
+{
+"id": "until",
+"name": "Auction stop filter",
+"type": "text",
+"values": [
+{
+"id": "today",
+"name": "Ending today",
+"results": 1
+}
+]
+},
+{
+"id": "has_video",
+"name": "Video publications filter",
+"type": "boolean",
+"values": [
+{
+"id": "yes",
+"name": "Publications with video",
+"results": 54
+}
+]
+},
+{
+"id": "has_pictures",
+"name": "Items with images filter",
+"type": "boolean",
+"values": [
+{
+"id": "yes",
+"name": "With pictures",
+"results": 254
+}
+]
+},
+{
+"id": "shipping_cost",
+"name": "Costo de envío",
+"type": "text",
+"values": [
+{
+"id": "free",
+"name": "Gratis",
+"results": 23
+}
+]
+}
+]
+}

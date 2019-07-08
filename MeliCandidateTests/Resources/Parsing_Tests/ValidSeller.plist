@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>id</key>
-	<string>MLA12</string>
-	<key>sold_quantity</key>
-	<string>12</string>
+	<string>Seller id</string>
+	<key>power_seller_status</key>
+	<string>Platinum</string>
 </dict>
 </plist>
