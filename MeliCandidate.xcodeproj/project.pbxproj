@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5BEF479222D3992D00D35599 /* FormatterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479122D3992D00D35599 /* FormatterTests.m */; };
 		5BF95F9B22D2CCDD0048A062 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9A22D2CCDD0048A062 /* main.m */; };
 		5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */; };
 		5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FA022D2CCDD0048A062 /* ViewController.m */; };
@@ -24,6 +25,9 @@
 		5BF95FF622D307A40048A062 /* MLCQuantityFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FF422D307A40048A062 /* MLCQuantityFormatter.m */; };
 		5BF95FF722D307A40048A062 /* MLCPriceFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FF522D307A40048A062 /* MLCPriceFormatter.m */; };
 		5BF95FFA22D308030048A062 /* MLCItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FF922D308030048A062 /* MLCItemTableViewCell.m */; };
+		5BF95FFC22D3141A0048A062 /* ItemTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFB22D3141A0048A062 /* ItemTests.m */; };
+		5BF95FFE22D3223B0048A062 /* SellerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFD22D3223B0048A062 /* SellerTests.m */; };
+		5BF9600022D325C00048A062 /* LocationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFF22D325C00048A062 /* LocationTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +48,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5BEF479122D3992D00D35599 /* FormatterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormatterTests.m; sourceTree = "<group>"; };
 		5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeliCandidate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF95F9A22D2CCDD0048A062 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -76,6 +81,9 @@
 		5BF95FF522D307A40048A062 /* MLCPriceFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCPriceFormatter.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		5BF95FF822D308030048A062 /* MLCItemTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemTableViewCell.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		5BF95FF922D308030048A062 /* MLCItemTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemTableViewCell.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BF95FFB22D3141A0048A062 /* ItemTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemTests.m; sourceTree = "<group>"; };
+		5BF95FFD22D3223B0048A062 /* SellerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SellerTests.m; sourceTree = "<group>"; };
+		5BF95FFF22D325C00048A062 /* LocationTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,8 +114,8 @@
 		5BF95F8D22D2CCDD0048A062 = {
 			isa = PBXGroup;
 			children = (
-				5BF95FCC22D2E4AC0048A062 /* README */,
 				5BF95F9822D2CCDD0048A062 /* MeliCandidate */,
+				5BF95FCC22D2E4AC0048A062 /* README */,
 				5BF95FB222D2CCDE0048A062 /* MeliCandidateTests */,
 				5BF95FBD22D2CCDE0048A062 /* MeliCandidateUITests */,
 				5BF95F9722D2CCDD0048A062 /* Products */,
@@ -319,6 +327,7 @@
 		5BF95FDE22D2EBCD0048A062 /* Performance Tests */ = {
 			isa = PBXGroup;
 			children = (
+				5BEF479122D3992D00D35599 /* FormatterTests.m */,
 			);
 			name = "Performance Tests";
 			path = Performance_Tests;
@@ -351,6 +360,9 @@
 		5BF95FE222D2EBCD0048A062 /* Model Tests */ = {
 			isa = PBXGroup;
 			children = (
+				5BF95FFB22D3141A0048A062 /* ItemTests.m */,
+				5BF95FFD22D3223B0048A062 /* SellerTests.m */,
+				5BF95FFF22D325C00048A062 /* LocationTests.m */,
 			);
 			name = "Model Tests";
 			path = Model_Tests;
@@ -508,6 +520,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BF95FFE22D3223B0048A062 /* SellerTests.m in Sources */,
+				5BF95FFC22D3141A0048A062 /* ItemTests.m in Sources */,
+				5BF9600022D325C00048A062 /* LocationTests.m in Sources */,
+				5BEF479222D3992D00D35599 /* FormatterTests.m in Sources */,
 				5BF95FB422D2CCDE0048A062 /* MeliCandidateTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -740,6 +756,7 @@
 				5BF95FC522D2CCDE0048A062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BF95FC622D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidateTests" */ = {
 			isa = XCConfigurationList;
@@ -748,6 +765,7 @@
 				5BF95FC822D2CCDE0048A062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BF95FC922D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidateUITests" */ = {
 			isa = XCConfigurationList;
@@ -756,6 +774,7 @@
 				5BF95FCB22D2CCDE0048A062 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
