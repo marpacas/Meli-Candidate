@@ -12,6 +12,8 @@
 		5BEF479D22D3B0F100D35599 /* MLCItemParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479722D3B0F100D35599 /* MLCItemParser.m */; };
 		5BEF479E22D3B0F100D35599 /* MLCItemsListParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479922D3B0F100D35599 /* MLCItemsListParser.m */; };
 		5BEF479F22D3B0F100D35599 /* MLCSellerParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479B22D3B0F100D35599 /* MLCSellerParser.m */; };
+		5BEF47A422D3B3F700D35599 /* MLCItemDetailService.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47A122D3B3F700D35599 /* MLCItemDetailService.m */; };
+		5BEF47A522D3B3F700D35599 /* MLCItemDetailParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47A222D3B3F700D35599 /* MLCItemDetailParser.m */; };
 		5BF95F9B22D2CCDD0048A062 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9A22D2CCDD0048A062 /* main.m */; };
 		5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */; };
 		5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FA022D2CCDD0048A062 /* ViewController.m */; };
@@ -61,6 +63,10 @@
 		5BEF479922D3B0F100D35599 /* MLCItemsListParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemsListParser.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		5BEF479A22D3B0F100D35599 /* MLCSellerParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCSellerParser.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		5BEF479B22D3B0F100D35599 /* MLCSellerParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCSellerParser.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF47A022D3B3F700D35599 /* MLCItemDetailService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemDetailService.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF47A122D3B3F700D35599 /* MLCItemDetailService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemDetailService.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF47A222D3B3F700D35599 /* MLCItemDetailParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemDetailParser.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF47A322D3B3F700D35599 /* MLCItemDetailParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemDetailParser.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeliCandidate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF95F9A22D2CCDD0048A062 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -296,6 +302,10 @@
 		5BF95FD722D2EAE70048A062 /* Service */ = {
 			isa = PBXGroup;
 			children = (
+				5BEF47A022D3B3F700D35599 /* MLCItemDetailService.h */,
+				5BEF47A122D3B3F700D35599 /* MLCItemDetailService.m */,
+				5BEF47A222D3B3F700D35599 /* MLCItemDetailParser.m */,
+				5BEF47A322D3B3F700D35599 /* MLCItemDetailParser.h */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -541,6 +551,8 @@
 				5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */,
 				5BF95FEE22D300D70048A062 /* MLCLocation.m in Sources */,
 				5BF95F9B22D2CCDD0048A062 /* main.m in Sources */,
+				5BEF47A422D3B3F700D35599 /* MLCItemDetailService.m in Sources */,
+				5BEF47A522D3B3F700D35599 /* MLCItemDetailParser.m in Sources */,
 				5BF95FEC22D300D70048A062 /* MLCItem.m in Sources */,
 				5BEF479E22D3B0F100D35599 /* MLCItemsListParser.m in Sources */,
 				5BEF479F22D3B0F100D35599 /* MLCSellerParser.m in Sources */,
