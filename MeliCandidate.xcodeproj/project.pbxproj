@@ -15,6 +15,7 @@
 		5BF95FA922D2CCDD0048A062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FA722D2CCDD0048A062 /* LaunchScreen.storyboard */; };
 		5BF95FB422D2CCDE0048A062 /* MeliCandidateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FB322D2CCDE0048A062 /* MeliCandidateTests.m */; };
 		5BF95FBF22D2CCDE0048A062 /* MeliCandidateUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FBE22D2CCDE0048A062 /* MeliCandidateUITests.m */; };
+		5BF95FCD22D2E4AC0048A062 /* README in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FCC22D2E4AC0048A062 /* README */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		5BF95FBA22D2CCDE0048A062 /* MeliCandidateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeliCandidateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF95FBE22D2CCDE0048A062 /* MeliCandidateUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeliCandidateUITests.m; sourceTree = "<group>"; };
 		5BF95FC022D2CCDE0048A062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BF95FCC22D2E4AC0048A062 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		5BF95F8D22D2CCDD0048A062 = {
 			isa = PBXGroup;
 			children = (
+				5BF95FCC22D2E4AC0048A062 /* README */,
 				5BF95F9822D2CCDD0048A062 /* MeliCandidate */,
 				5BF95FB222D2CCDE0048A062 /* MeliCandidateTests */,
 				5BF95FBD22D2CCDE0048A062 /* MeliCandidateUITests */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BF95FCD22D2E4AC0048A062 /* README in Resources */,
 				5BF95FA922D2CCDD0048A062 /* LaunchScreen.storyboard in Resources */,
 				5BF95FA622D2CCDD0048A062 /* Assets.xcassets in Resources */,
 				5BF95FA422D2CCDD0048A062 /* Main.storyboard in Resources */,
