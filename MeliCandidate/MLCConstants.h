@@ -1,18 +1,20 @@
 //
 //  MLCConstants.h
-//  MeLiCandiadte
-//
-//  Created by Martha Patricia Castillo Fuentes on 7/4/19.
+//  MeliCandidate
+//  Created by Martha Patricia Castillo Fuentes on 7/7/19.
 //  Copyright © 2019 Martha Castillo. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
+/**
+ A class that stores the constants used by the app
+ */
+
+// API
 extern NSString* const kBaseURL;
 extern NSString* const kMLCDomain;
 extern NSString* const kSite;
-
-
 
 //Enums
 
