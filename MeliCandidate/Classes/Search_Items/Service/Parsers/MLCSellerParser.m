@@ -38,8 +38,8 @@
 
 -(NSError*)getBasicInfoForSellerFromJSONDictionary {
     NSError* parsingError;
-    if ((!self.JSONDictionary[@"id"]) && (!self.JSONDictionary[@"power_seller_status"])) {
-        parsingError = [self setErrorWithMessage:@"Invalid JSON for Seller"];
+    if ((self.JSONDictionary[@"id"]) && (self.JSONDictionary[@"power_seller_status"])) {
+        [self setUpSeller];
         
     }
     else {
@@ -48,7 +48,7 @@
            
         }
         else {
-            [self setUpSeller];
+            parsingError = [self setErrorWithMessage:@"Invalid JSON for Seller"];
         }
     }
     

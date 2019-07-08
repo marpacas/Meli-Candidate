@@ -38,19 +38,17 @@
 
 -(NSError*)getDetailFromJSONDictionaryForItem:(MLCItem*)item {
     NSError* parsingError;
-    if ((!self.JSONDictionary[@"id"]) && (!self.JSONDictionary[@"title"])&& (!self.JSONDictionary[@"condition"]) && (!self.JSONDictionary[@"address"])) {
-        NSDictionary* userInfo = @{NSLocalizedDescriptionKey:NSLocalizedString(@"Invalid JSON for Item Detail", nil)};
-        parsingError = [NSError errorWithDomain:kMLCDomain code:0 userInfo:userInfo];
-        
+    if ((self.JSONDictionary[@"id"]) && ( self.JSONDictionary[@"title"])&& ( self.JSONDictionary[@"condition"]) && (self.JSONDictionary[@"address"])) {
+        [self setUpDetailForItem:item];
     }
     else {
         if (!self.JSONDictionary[@"id"]) {
-            NSDictionary* userInfo = @{NSLocalizedDescriptionKey:NSLocalizedString(@"Invalid id in JSON for Item Detail", nil)};
-            parsingError = [NSError errorWithDomain:kMLCDomain code:0 userInfo:userInfo];
+            parsingError = [self setErrorWithMessage:@"Invalid id in JSON for Item Detail"];
             
         }
         else {
-            [self setUpDetailForItem:item];
+            parsingError = [self setErrorWithMessage:@"Invalid JSON for Item Detail"];
+
         }
     }
     
@@ -118,6 +116,12 @@
         picturesURL = [NSArray arrayWithArray:picturesToFill];
     }
     return picturesURL;
+    
+}
+
+-(nonnull NSError*)setErrorWithMessage:(NSString*)errorMessage {
+    NSDictionary* userInfo = @{NSLocalizedDescriptionKey:NSLocalizedString(errorMessage, nil)};
+    return ([NSError errorWithDomain:kMLCDomain code:200 userInfo:userInfo]);
     
 }
 

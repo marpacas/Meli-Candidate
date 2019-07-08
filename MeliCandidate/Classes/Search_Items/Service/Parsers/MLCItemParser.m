@@ -39,9 +39,9 @@
 
 -(NSError*)getBasicInfoForItemFromJSONDictionary {
     NSError* parsingError;
-    if ((!self.JSONDictionary[@"id"]) && (!self.JSONDictionary[@"title"])&& (!self.JSONDictionary[@"condition"]) && (!self.JSONDictionary[@"address"])) {
-        parsingError = [self setErrorWithMessage:@"Invalid JSON for Item"];
-        
+    if ((self.JSONDictionary[@"id"]) && (self.JSONDictionary[@"title"])&& (self.JSONDictionary[@"condition"]) && (self.JSONDictionary[@"address"])) {
+        [self setUpItem];
+       
     }
     else {
         if (!self.JSONDictionary[@"id"]) {
@@ -49,7 +49,8 @@
             
         }
         else {
-            [self setUpItem];
+            parsingError = [self setErrorWithMessage:@"Invalid JSON for Item"];
+
         }
     }
     
