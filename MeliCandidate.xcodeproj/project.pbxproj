@@ -1,0 +1,528 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5BF95F9B22D2CCDD0048A062 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9A22D2CCDD0048A062 /* main.m */; };
+		5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */; };
+		5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FA022D2CCDD0048A062 /* ViewController.m */; };
+		5BF95FA422D2CCDD0048A062 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FA222D2CCDD0048A062 /* Main.storyboard */; };
+		5BF95FA622D2CCDD0048A062 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FA522D2CCDD0048A062 /* Assets.xcassets */; };
+		5BF95FA922D2CCDD0048A062 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BF95FA722D2CCDD0048A062 /* LaunchScreen.storyboard */; };
+		5BF95FB422D2CCDE0048A062 /* MeliCandidateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FB322D2CCDE0048A062 /* MeliCandidateTests.m */; };
+		5BF95FBF22D2CCDE0048A062 /* MeliCandidateUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FBE22D2CCDE0048A062 /* MeliCandidateUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5BF95FB022D2CCDE0048A062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5BF95F8E22D2CCDD0048A062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5BF95F9522D2CCDD0048A062;
+			remoteInfo = MeliCandidate;
+		};
+		5BF95FBB22D2CCDE0048A062 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5BF95F8E22D2CCDD0048A062 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5BF95F9522D2CCDD0048A062;
+			remoteInfo = MeliCandidate;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeliCandidate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BF95F9A22D2CCDD0048A062 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		5BF95F9F22D2CCDD0048A062 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		5BF95FA022D2CCDD0048A062 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		5BF95FA322D2CCDD0048A062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5BF95FA522D2CCDD0048A062 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5BF95FA822D2CCDD0048A062 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5BF95FAA22D2CCDD0048A062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BF95FAF22D2CCDE0048A062 /* MeliCandidateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeliCandidateTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BF95FB322D2CCDE0048A062 /* MeliCandidateTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeliCandidateTests.m; sourceTree = "<group>"; };
+		5BF95FB522D2CCDE0048A062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BF95FBA22D2CCDE0048A062 /* MeliCandidateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeliCandidateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BF95FBE22D2CCDE0048A062 /* MeliCandidateUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MeliCandidateUITests.m; sourceTree = "<group>"; };
+		5BF95FC022D2CCDE0048A062 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5BF95F9322D2CCDD0048A062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BF95FAC22D2CCDE0048A062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BF95FB722D2CCDE0048A062 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5BF95F8D22D2CCDD0048A062 = {
+			isa = PBXGroup;
+			children = (
+				5BF95F9822D2CCDD0048A062 /* MeliCandidate */,
+				5BF95FB222D2CCDE0048A062 /* MeliCandidateTests */,
+				5BF95FBD22D2CCDE0048A062 /* MeliCandidateUITests */,
+				5BF95F9722D2CCDD0048A062 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5BF95F9722D2CCDD0048A062 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */,
+				5BF95FAF22D2CCDE0048A062 /* MeliCandidateTests.xctest */,
+				5BF95FBA22D2CCDE0048A062 /* MeliCandidateUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5BF95F9822D2CCDD0048A062 /* MeliCandidate */ = {
+			isa = PBXGroup;
+			children = (
+				5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */,
+				5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */,
+				5BF95F9F22D2CCDD0048A062 /* ViewController.h */,
+				5BF95FA022D2CCDD0048A062 /* ViewController.m */,
+				5BF95FA222D2CCDD0048A062 /* Main.storyboard */,
+				5BF95FA522D2CCDD0048A062 /* Assets.xcassets */,
+				5BF95FA722D2CCDD0048A062 /* LaunchScreen.storyboard */,
+				5BF95FAA22D2CCDD0048A062 /* Info.plist */,
+				5BF95F9922D2CCDD0048A062 /* Supporting Files */,
+			);
+			path = MeliCandidate;
+			sourceTree = "<group>";
+		};
+		5BF95F9922D2CCDD0048A062 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5BF95F9A22D2CCDD0048A062 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5BF95FB222D2CCDE0048A062 /* MeliCandidateTests */ = {
+			isa = PBXGroup;
+			children = (
+				5BF95FB322D2CCDE0048A062 /* MeliCandidateTests.m */,
+				5BF95FB522D2CCDE0048A062 /* Info.plist */,
+			);
+			path = MeliCandidateTests;
+			sourceTree = "<group>";
+		};
+		5BF95FBD22D2CCDE0048A062 /* MeliCandidateUITests */ = {
+			isa = PBXGroup;
+			children = (
+				5BF95FBE22D2CCDE0048A062 /* MeliCandidateUITests.m */,
+				5BF95FC022D2CCDE0048A062 /* Info.plist */,
+			);
+			path = MeliCandidateUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5BF95F9522D2CCDD0048A062 /* MeliCandidate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5BF95FC322D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidate" */;
+			buildPhases = (
+				5BF95F9222D2CCDD0048A062 /* Sources */,
+				5BF95F9322D2CCDD0048A062 /* Frameworks */,
+				5BF95F9422D2CCDD0048A062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MeliCandidate;
+			productName = MeliCandidate;
+			productReference = 5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5BF95FAE22D2CCDE0048A062 /* MeliCandidateTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5BF95FC622D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidateTests" */;
+			buildPhases = (
+				5BF95FAB22D2CCDE0048A062 /* Sources */,
+				5BF95FAC22D2CCDE0048A062 /* Frameworks */,
+				5BF95FAD22D2CCDE0048A062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5BF95FB122D2CCDE0048A062 /* PBXTargetDependency */,
+			);
+			name = MeliCandidateTests;
+			productName = MeliCandidateTests;
+			productReference = 5BF95FAF22D2CCDE0048A062 /* MeliCandidateTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5BF95FB922D2CCDE0048A062 /* MeliCandidateUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5BF95FC922D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidateUITests" */;
+			buildPhases = (
+				5BF95FB622D2CCDE0048A062 /* Sources */,
+				5BF95FB722D2CCDE0048A062 /* Frameworks */,
+				5BF95FB822D2CCDE0048A062 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5BF95FBC22D2CCDE0048A062 /* PBXTargetDependency */,
+			);
+			name = MeliCandidateUITests;
+			productName = MeliCandidateUITests;
+			productReference = 5BF95FBA22D2CCDE0048A062 /* MeliCandidateUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5BF95F8E22D2CCDD0048A062 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = "Martha Castillo";
+				TargetAttributes = {
+					5BF95F9522D2CCDD0048A062 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+					5BF95FAE22D2CCDE0048A062 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 5BF95F9522D2CCDD0048A062;
+					};
+					5BF95FB922D2CCDE0048A062 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 5BF95F9522D2CCDD0048A062;
+					};
+				};
+			};
+			buildConfigurationList = 5BF95F9122D2CCDD0048A062 /* Build configuration list for PBXProject "MeliCandidate" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5BF95F8D22D2CCDD0048A062;
+			productRefGroup = 5BF95F9722D2CCDD0048A062 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5BF95F9522D2CCDD0048A062 /* MeliCandidate */,
+				5BF95FAE22D2CCDE0048A062 /* MeliCandidateTests */,
+				5BF95FB922D2CCDE0048A062 /* MeliCandidateUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5BF95F9422D2CCDD0048A062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5BF95FA922D2CCDD0048A062 /* LaunchScreen.storyboard in Resources */,
+				5BF95FA622D2CCDD0048A062 /* Assets.xcassets in Resources */,
+				5BF95FA422D2CCDD0048A062 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BF95FAD22D2CCDE0048A062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BF95FB822D2CCDE0048A062 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5BF95F9222D2CCDD0048A062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */,
+				5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */,
+				5BF95F9B22D2CCDD0048A062 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BF95FAB22D2CCDE0048A062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5BF95FB422D2CCDE0048A062 /* MeliCandidateTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5BF95FB622D2CCDE0048A062 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5BF95FBF22D2CCDE0048A062 /* MeliCandidateUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5BF95FB122D2CCDE0048A062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5BF95F9522D2CCDD0048A062 /* MeliCandidate */;
+			targetProxy = 5BF95FB022D2CCDE0048A062 /* PBXContainerItemProxy */;
+		};
+		5BF95FBC22D2CCDE0048A062 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5BF95F9522D2CCDD0048A062 /* MeliCandidate */;
+			targetProxy = 5BF95FBB22D2CCDE0048A062 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		5BF95FA222D2CCDD0048A062 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5BF95FA322D2CCDD0048A062 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		5BF95FA722D2CCDD0048A062 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5BF95FA822D2CCDD0048A062 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5BF95FC122D2CCDE0048A062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5BF95FC222D2CCDE0048A062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5BF95FC422D2CCDE0048A062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = MeliCandidate/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.company.MeliCandidate;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5BF95FC522D2CCDE0048A062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = MeliCandidate/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.company.MeliCandidate;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5BF95FC722D2CCDE0048A062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MeliCandidateTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.company.MeliCandidateTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeliCandidate.app/MeliCandidate";
+			};
+			name = Debug;
+		};
+		5BF95FC822D2CCDE0048A062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = MeliCandidateTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.company.MeliCandidateTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MeliCandidate.app/MeliCandidate";
+			};
+			name = Release;
+		};
+		5BF95FCA22D2CCDE0048A062 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = MeliCandidateUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.company.MeliCandidateUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = MeliCandidate;
+			};
+			name = Debug;
+		};
+		5BF95FCB22D2CCDE0048A062 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = MeliCandidateUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.company.MeliCandidateUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = MeliCandidate;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5BF95F9122D2CCDD0048A062 /* Build configuration list for PBXProject "MeliCandidate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BF95FC122D2CCDE0048A062 /* Debug */,
+				5BF95FC222D2CCDE0048A062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5BF95FC322D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BF95FC422D2CCDE0048A062 /* Debug */,
+				5BF95FC522D2CCDE0048A062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		5BF95FC622D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidateTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BF95FC722D2CCDE0048A062 /* Debug */,
+				5BF95FC822D2CCDE0048A062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		5BF95FC922D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidateUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5BF95FCA22D2CCDE0048A062 /* Debug */,
+				5BF95FCB22D2CCDE0048A062 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5BF95F8E22D2CCDD0048A062 /* Project object */;
+}
