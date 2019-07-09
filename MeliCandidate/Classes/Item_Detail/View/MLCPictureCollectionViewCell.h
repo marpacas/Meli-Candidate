@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+/**
+ A cell that shows  an a picture of an item
+ */
+
 @interface MLCPictureCollectionViewCell : UICollectionViewCell
 
 @property (weak, nonatomic) IBOutlet UIImageView *pictureImageView;

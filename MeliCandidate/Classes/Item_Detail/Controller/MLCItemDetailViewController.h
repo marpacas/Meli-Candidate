@@ -9,8 +9,12 @@
 #import <UIKit/UIKit.h>
 #import "MLCItem.h"
 
+/**
+ A MLCItemDetailViewController shows detailed info of an item
+ */
+
 @interface MLCItemDetailViewController : UIViewController
 
-@property(nonatomic, strong, nonnull)MLCItem* item;
+@property(nonatomic, strong, nonnull) MLCItem* item;
 
 @end

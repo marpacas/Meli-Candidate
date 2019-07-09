@@ -9,6 +9,10 @@
 #import <UIKit/UIKit.h>
 #import "MLCItem.h"
 
+/**  A MLCSearchItemsViewController
+ Displays the search bar to the user and shows the found items
+ */
+
 @interface MLCSearchItemsViewController : UIViewController
 
 @property(nonatomic, strong, nullable)NSArray <MLCItem*>* itemsList;
