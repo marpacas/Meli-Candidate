@@ -53,10 +53,6 @@
 		5BF9976622D4EBC6008B9B4B /* MLCPictureCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BF9976422D4EBC6008B9B4B /* MLCPictureCollectionViewCell.xib */; };
 		5BF9976922D4EC01008B9B4B /* MLCPictureCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF9976822D4EC01008B9B4B /* MLCPictureCollectionViewCell.m */; };
 		5BF9976C22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF9976A22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.m */; };
-		5BF9977522D51397008B9B4B /* Class Diagram - MeliCandidate.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BF9977122D51397008B9B4B /* Class Diagram - MeliCandidate.png */; };
-		5BF9977622D51397008B9B4B /* Diagram - Network.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BF9977222D51397008B9B4B /* Diagram - Network.png */; };
-		5BF9977722D51397008B9B4B /* Folders & Groups Structure - Classes.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BF9977322D51397008B9B4B /* Folders & Groups Structure - Classes.png */; };
-		5BF9977822D51397008B9B4B /* Folders & Groups Structure - Tests.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BF9977422D51397008B9B4B /* Folders & Groups Structure - Tests.png */; };
 		5BF9977B22D52630008B9B4B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5BF9977922D52291008B9B4B /* README.md */; };
 		95E0426B9039FB692A7CA403 /* libPods-MeliCandidateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C134F61BDFF66444BA3D21EB /* libPods-MeliCandidateTests.a */; };
 		BE284F4396E09EBD47401EFD /* libPods-MeliCandidate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6F92CC337C6655CA26F499 /* libPods-MeliCandidate.a */; };
@@ -155,10 +151,6 @@
 		5BF9976822D4EC01008B9B4B /* MLCPictureCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCPictureCollectionViewCell.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		5BF9976A22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCPicturesCollectionViewDataSource.m; sourceTree = "<group>"; };
 		5BF9976B22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCPicturesCollectionViewDataSource.h; sourceTree = "<group>"; };
-		5BF9977122D51397008B9B4B /* Class Diagram - MeliCandidate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Class Diagram - MeliCandidate.png"; sourceTree = "<group>"; };
-		5BF9977222D51397008B9B4B /* Diagram - Network.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Diagram - Network.png"; sourceTree = "<group>"; };
-		5BF9977322D51397008B9B4B /* Folders & Groups Structure - Classes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Folders & Groups Structure - Classes.png"; sourceTree = "<group>"; };
-		5BF9977422D51397008B9B4B /* Folders & Groups Structure - Tests.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Folders & Groups Structure - Tests.png"; sourceTree = "<group>"; };
 		5BF9977922D52291008B9B4B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6A3C8CAEB7735663C15F606D /* Pods-MeliCandidateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidateTests.release.xcconfig"; path = "Target Support Files/Pods-MeliCandidateTests/Pods-MeliCandidateTests.release.xcconfig"; sourceTree = "<group>"; };
 		73693E7480188AC2B8F97B36 /* Pods-MeliCandidateUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidateUITests.release.xcconfig"; path = "Target Support Files/Pods-MeliCandidateUITests/Pods-MeliCandidateUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -243,7 +235,6 @@
 				5BF95F9722D2CCDD0048A062 /* Products */,
 				E2873549541169ED13DD8291 /* Pods */,
 				A5EE938DDA458B76561883FE /* Frameworks */,
-				5BF9976F22D51397008B9B4B /* Readme Resources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -518,26 +509,6 @@
 			path = Model_Tests;
 			sourceTree = "<group>";
 		};
-		5BF9976F22D51397008B9B4B /* Readme Resources */ = {
-			isa = PBXGroup;
-			children = (
-				5BF9977022D51397008B9B4B /* images */,
-			);
-			name = "Readme Resources";
-			path = Readme_Resources;
-			sourceTree = "<group>";
-		};
-		5BF9977022D51397008B9B4B /* images */ = {
-			isa = PBXGroup;
-			children = (
-				5BF9977122D51397008B9B4B /* Class Diagram - MeliCandidate.png */,
-				5BF9977222D51397008B9B4B /* Diagram - Network.png */,
-				5BF9977322D51397008B9B4B /* Folders & Groups Structure - Classes.png */,
-				5BF9977422D51397008B9B4B /* Folders & Groups Structure - Tests.png */,
-			);
-			path = images;
-			sourceTree = "<group>";
-		};
 		A5EE938DDA458B76561883FE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -674,12 +645,8 @@
 				5BF9976622D4EBC6008B9B4B /* MLCPictureCollectionViewCell.xib in Resources */,
 				5BF95FE522D2F3CF0048A062 /* MLCItemTableViewCell.xib in Resources */,
 				5BF95FA922D2CCDD0048A062 /* LaunchScreen.storyboard in Resources */,
-				5BF9977622D51397008B9B4B /* Diagram - Network.png in Resources */,
-				5BF9977522D51397008B9B4B /* Class Diagram - MeliCandidate.png in Resources */,
 				5BF95FA622D2CCDD0048A062 /* Assets.xcassets in Resources */,
-				5BF9977722D51397008B9B4B /* Folders & Groups Structure - Classes.png in Resources */,
 				5BF95FA422D2CCDD0048A062 /* Main.storyboard in Resources */,
-				5BF9977822D51397008B9B4B /* Folders & Groups Structure - Tests.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -7,9 +7,9 @@ Se puede ver como el MVC, que es la arquitectura default en el ecosistema Apple,
 
 ## Clases
 
-###Diagrama de clases
+### Diagrama de clases
 
-![](Readme_Resources/images/Class Diagram - MeliCandidate.png)
+![Class Diagram](ReadmeResources/images/ClassDiagram-MeliCandidate.png)
 
 ### Model
 * MLCItem : Contiene los datos de un item o producto
@@ -46,7 +46,7 @@ Se puede ver como el MVC, que es la arquitectura default en el ecosistema Apple,
 Esta capa es la responsable de comunicarse con la API utilizando las clases de NSURLSession; además, de convertir las respuestas en objetos del model y finalmente pasar estos objetos  a la clase que solicitó su servicio, en general un view controller.
 Cada service es responsable de un solo tipo de funcionalidad y realiza las llamadas al endpoint correspondiente; siguiendo el principio de responsabilidad única, en esta capa se definen clases para implementar el parsing de los resultados recibidos
  
- ![](Readme_Resources/images/Diagram - Network.png)
+ ![Network Diagram](ReadmeResources/images/Diagram-Network.png)
  
 * MLCSearchItemsService
 
@@ -76,7 +76,7 @@ Cada service es responsable de un solo tipo de funcionalidad y realiza las llama
 
 Las clases en el target de la aplicación se agrupan  por funcionalidad; dentro de cada funcionalidad se organizan en grupos de acuerdo con el rol que desempeñan en la arquitectura MVCS mencionada en el primer párrafo
 
-![](Readme_Resources/images/Folders & Groups Structure - Classes.png)
+![Folders Structure](ReadmeResources/images/FoldersGroupsStructure-Classes.png)
 
 * Search Items : Agrupa las clases que se encargan de realizar la búsqueda  solicitada por el usuario  y  de mostrar los ítem encontrados
 * Item detail : Agrupa las clases que se encargan de comunicarse con la API para solicitar  el  detalle de un ítem  para posteriormente mostrarlo al usuario
@@ -86,7 +86,7 @@ Las clases en el target de la aplicación se agrupan  por funcionalidad; dentro 
 ### Target de tests
 En el target de unit tests las carpetas se organizan por tipo de test
 
-![](Readme_Resources/images/Folders & Groups Structure - Tests.png)
+![Folders Strucutre Tests](ReadmeResources/images/FoldersGroupsStructure-Tests.png)
 		
 ## Unit Tests
 
