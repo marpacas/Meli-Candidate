@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0BD5E67493CF951C87B1DA40 /* libPods-MeliCandidateUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AFAC688B7465963E28C431A9 /* libPods-MeliCandidateUITests.a */; };
 		5B7D36C722D45DE600EA0546 /* SearchItemsViewControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B7D36C622D45DE600EA0546 /* SearchItemsViewControllerTests.m */; };
 		5BEF479222D3992D00D35599 /* FormatterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479122D3992D00D35599 /* FormatterTests.m */; };
 		5BEF479C22D3B0F100D35599 /* MLCSearchItemsService.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479422D3B0F100D35599 /* MLCSearchItemsService.m */; };
@@ -50,6 +51,8 @@
 		5BF95FFC22D3141A0048A062 /* ItemTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFB22D3141A0048A062 /* ItemTests.m */; };
 		5BF95FFE22D3223B0048A062 /* SellerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFD22D3223B0048A062 /* SellerTests.m */; };
 		5BF9600022D325C00048A062 /* LocationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFF22D325C00048A062 /* LocationTests.m */; };
+		95E0426B9039FB692A7CA403 /* libPods-MeliCandidateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C134F61BDFF66444BA3D21EB /* libPods-MeliCandidateTests.a */; };
+		BE284F4396E09EBD47401EFD /* libPods-MeliCandidate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6F92CC337C6655CA26F499 /* libPods-MeliCandidate.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +73,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		161D9CC234970AA2B66A4E06 /* Pods-MeliCandidate.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidate.debug.xcconfig"; path = "Target Support Files/Pods-MeliCandidate/Pods-MeliCandidate.debug.xcconfig"; sourceTree = "<group>"; };
+		3C6F92CC337C6655CA26F499 /* libPods-MeliCandidate.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeliCandidate.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4788A9F3409EA6583B31FF5C /* Pods-MeliCandidateTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidateTests.debug.xcconfig"; path = "Target Support Files/Pods-MeliCandidateTests/Pods-MeliCandidateTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5B7D36C622D45DE600EA0546 /* SearchItemsViewControllerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchItemsViewControllerTests.m; sourceTree = "<group>"; };
 		5BEF479122D3992D00D35599 /* FormatterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormatterTests.m; sourceTree = "<group>"; };
 		5BEF479322D3B0F000D35599 /* MLCSearchItemsService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCSearchItemsService.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
@@ -138,6 +144,12 @@
 		5BF95FFB22D3141A0048A062 /* ItemTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemTests.m; sourceTree = "<group>"; };
 		5BF95FFD22D3223B0048A062 /* SellerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SellerTests.m; sourceTree = "<group>"; };
 		5BF95FFF22D325C00048A062 /* LocationTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationTests.m; sourceTree = "<group>"; };
+		6A3C8CAEB7735663C15F606D /* Pods-MeliCandidateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidateTests.release.xcconfig"; path = "Target Support Files/Pods-MeliCandidateTests/Pods-MeliCandidateTests.release.xcconfig"; sourceTree = "<group>"; };
+		73693E7480188AC2B8F97B36 /* Pods-MeliCandidateUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidateUITests.release.xcconfig"; path = "Target Support Files/Pods-MeliCandidateUITests/Pods-MeliCandidateUITests.release.xcconfig"; sourceTree = "<group>"; };
+		AFAC688B7465963E28C431A9 /* libPods-MeliCandidateUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeliCandidateUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B20865C9A2C7D1AE4DC05ED2 /* Pods-MeliCandidate.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidate.release.xcconfig"; path = "Target Support Files/Pods-MeliCandidate/Pods-MeliCandidate.release.xcconfig"; sourceTree = "<group>"; };
+		C134F61BDFF66444BA3D21EB /* libPods-MeliCandidateTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeliCandidateTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1F5F5562B1B67F59BC31F2D /* Pods-MeliCandidateUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidateUITests.debug.xcconfig"; path = "Target Support Files/Pods-MeliCandidateUITests/Pods-MeliCandidateUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +157,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE284F4396E09EBD47401EFD /* libPods-MeliCandidate.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -152,6 +165,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				95E0426B9039FB692A7CA403 /* libPods-MeliCandidateTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -159,6 +173,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BD5E67493CF951C87B1DA40 /* libPods-MeliCandidateUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,6 +225,8 @@
 				5BF95FB222D2CCDE0048A062 /* MeliCandidateTests */,
 				5BF95FBD22D2CCDE0048A062 /* MeliCandidateUITests */,
 				5BF95F9722D2CCDD0048A062 /* Products */,
+				E2873549541169ED13DD8291 /* Pods */,
+				A5EE938DDA458B76561883FE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -479,6 +496,30 @@
 			path = Model_Tests;
 			sourceTree = "<group>";
 		};
+		A5EE938DDA458B76561883FE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3C6F92CC337C6655CA26F499 /* libPods-MeliCandidate.a */,
+				C134F61BDFF66444BA3D21EB /* libPods-MeliCandidateTests.a */,
+				AFAC688B7465963E28C431A9 /* libPods-MeliCandidateUITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E2873549541169ED13DD8291 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				161D9CC234970AA2B66A4E06 /* Pods-MeliCandidate.debug.xcconfig */,
+				B20865C9A2C7D1AE4DC05ED2 /* Pods-MeliCandidate.release.xcconfig */,
+				4788A9F3409EA6583B31FF5C /* Pods-MeliCandidateTests.debug.xcconfig */,
+				6A3C8CAEB7735663C15F606D /* Pods-MeliCandidateTests.release.xcconfig */,
+				D1F5F5562B1B67F59BC31F2D /* Pods-MeliCandidateUITests.debug.xcconfig */,
+				73693E7480188AC2B8F97B36 /* Pods-MeliCandidateUITests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -486,6 +527,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5BF95FC322D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidate" */;
 			buildPhases = (
+				6852F7D041DF46EED7CE4B6A /* [CP] Check Pods Manifest.lock */,
 				5BF95F9222D2CCDD0048A062 /* Sources */,
 				5BF95F9322D2CCDD0048A062 /* Frameworks */,
 				5BF95F9422D2CCDD0048A062 /* Resources */,
@@ -503,6 +545,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5BF95FC622D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidateTests" */;
 			buildPhases = (
+				EC57A9BA7981246029423F18 /* [CP] Check Pods Manifest.lock */,
 				5BF95FAB22D2CCDE0048A062 /* Sources */,
 				5BF95FAC22D2CCDE0048A062 /* Frameworks */,
 				5BF95FAD22D2CCDE0048A062 /* Resources */,
@@ -521,6 +564,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5BF95FC922D2CCDE0048A062 /* Build configuration list for PBXNativeTarget "MeliCandidateUITests" */;
 			buildPhases = (
+				984AB3E3382B6C17086A37B4 /* [CP] Check Pods Manifest.lock */,
 				5BF95FB622D2CCDE0048A062 /* Sources */,
 				5BF95FB722D2CCDE0048A062 /* Frameworks */,
 				5BF95FB822D2CCDE0048A062 /* Resources */,
@@ -616,6 +660,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6852F7D041DF46EED7CE4B6A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MeliCandidate-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		984AB3E3382B6C17086A37B4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MeliCandidateUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EC57A9BA7981246029423F18 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MeliCandidateTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		5BF95F9222D2CCDD0048A062 /* Sources */ = {
@@ -802,6 +915,7 @@
 		};
 		5BF95FC422D2CCDE0048A062 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 161D9CC234970AA2B66A4E06 /* Pods-MeliCandidate.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = "";
@@ -814,6 +928,7 @@
 		};
 		5BF95FC522D2CCDE0048A062 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B20865C9A2C7D1AE4DC05ED2 /* Pods-MeliCandidate.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = "";
@@ -826,6 +941,7 @@
 		};
 		5BF95FC722D2CCDE0048A062 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4788A9F3409EA6583B31FF5C /* Pods-MeliCandidateTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = MeliCandidateTests/Info.plist;
@@ -838,6 +954,7 @@
 		};
 		5BF95FC822D2CCDE0048A062 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A3C8CAEB7735663C15F606D /* Pods-MeliCandidateTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = MeliCandidateTests/Info.plist;
@@ -850,6 +967,7 @@
 		};
 		5BF95FCA22D2CCDE0048A062 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1F5F5562B1B67F59BC31F2D /* Pods-MeliCandidateUITests.debug.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = MeliCandidateUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -861,6 +979,7 @@
 		};
 		5BF95FCB22D2CCDE0048A062 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 73693E7480188AC2B8F97B36 /* Pods-MeliCandidateUITests.release.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = MeliCandidateUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
