@@ -24,31 +24,33 @@
     NSBundle* testBundle = [NSBundle bundleForClass:[self class]];
     NSURL* validJSONURL = [testBundle URLForResource:@"ValidJSONData" withExtension:@"json"];
     if (validJSONURL) {
-        self.JSONData = [NSData dataWithContentsOfURL:validJSONURL];
-        NSError* JSONError;
-        id JSONObject = [NSJSONSerialization JSONObjectWithData:self.JSONData options:NSJSONReadingAllowFragments error:&JSONError];
-        if (([JSONObject isKindOfClass:[NSDictionary class]]) && (!JSONError)) {
-            NSArray* JSONArray = JSONObject[@"results"];
-            if (JSONArray) {
-                self.itemsListParser = [[MLCItemsListParser alloc] initWithJSONArray:JSONArray];
-            }
-            else {
-                XCTFail(@"Invalid JSON in file: ValidJSONData.json");
-            }
-
-        }
-        else {
-            XCTFail(@"Invalid JSON in file: ValidJSONData.json");
-
-        }
+        [self setUpJSONDataFromJSONURL:validJSONURL];
         
     }
     else {
         XCTFail(@"Missing file: ValidJSONData.json");
     }
-   
+    
+}
 
-
+-(void)setUpJSONDataFromJSONURL:(NSURL*)JSONURL {
+    self.JSONData = [NSData dataWithContentsOfURL:JSONURL];
+    NSError* JSONError;
+    id JSONObject = [NSJSONSerialization JSONObjectWithData:self.JSONData options:NSJSONReadingAllowFragments error:&JSONError];
+    if (([JSONObject isKindOfClass:[NSDictionary class]]) && (!JSONError)) {
+        NSArray* JSONArray = JSONObject[@"results"];
+        if (JSONArray) {
+            self.itemsListParser = [[MLCItemsListParser alloc] initWithJSONArray:JSONArray];
+        }
+        else {
+            XCTFail(@"Invalid JSON in file: ValidJSONData.json");
+        }
+        
+    }
+    else {
+        XCTFail(@"Invalid JSON in file: ValidJSONData.json");
+        
+    }
     
 }
 

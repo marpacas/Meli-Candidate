@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   ItemValid.plist
-   MeliCandidate
-
-   Created by Martha Patricia Castillo Fuentes on 7/8/19.
-   Copyright (c) 2019 Martha Castillo. All rights reserved.
--->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-    
-    </dict>
+<dict>
+	<key>id</key>
+	<string>MLA1</string>
+	<key>title</key>
+	<string>Disco externo</string>
+	<key>condition</key>
+	<string>Nuevo</string>
+	<key>price</key>
+	<string>2000</string>
+	<key>sold_quantity</key>
+	<string>12</string>
+	<key>available_quantity</key>
+	<string>50</string>
+	<key>thumbnail</key>
+	<string>http://mlu-s1-p.mlstatic.com/628772-MLU31242544139_062019-I.jpg</string>
+	<key>address</key>
+	<dict>
+		<key>city_name</key>
+		<string>Capital Federal</string>
+		<key>state_name</key>
+		<string>Buenos Aires</string>
+	</dict>
+	<key>seller</key>
+	<dict>
+		<key>id</key>
+		<string>23456</string>
+		<key>power_seller_status</key>
+		<string>Gold</string>
+	</dict>
+</dict>
 </plist>
