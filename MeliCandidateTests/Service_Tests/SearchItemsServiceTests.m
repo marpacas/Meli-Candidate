@@ -1,5 +1,5 @@
 //
-//  SearchItemsTests.m
+//  SearchItemsServiceTests.m
 //  MeliCandidate
 //
 //  Created by Martha Patricia Castillo Fuentes on 7/8/19.
@@ -16,7 +16,7 @@
 
 @end
 
-@interface SearchItemsTests : XCTestCase
+@interface SearchItemsServiceTests : XCTestCase
 
 @property(nonatomic, strong) NSString* textToSearch;
 @property(nonatomic, strong) NSString* validEndPoint;
@@ -26,7 +26,7 @@
 
 @end
 
-@implementation SearchItemsTests
+@implementation SearchItemsServiceTests
 
 - (void)setUp {
     [super setUp];
@@ -98,13 +98,13 @@
         
         if ([response isKindOfClass:[NSHTTPURLResponse class]]) {
             NSHTTPURLResponse *httpResponse = (NSHTTPURLResponse *)response;
-            XCTAssertNotEqual(httpResponse.statusCode, 200, @"HTTP response status code should not be 200 in Search Items");
-            XCTAssertEqualObjects(httpResponse.URL.absoluteString, URLComponents.URL.absoluteString, @"HTTP response URL should be equal to original URL in Search Items Service");
-            XCTAssertEqualObjects(httpResponse.MIMEType, @"application/json", @"HTTP response content type should be application/json in Search Items Service");
+            XCTAssertNotEqual(httpResponse.statusCode, 200, @"HTTP response status code should not be 200 in Search Items when bad request");
+            XCTAssertEqualObjects(httpResponse.URL.absoluteString, URLComponents.URL.absoluteString, @"HTTP response URL should be equal to original URL in Search Items Service when bad request");
+            XCTAssertEqualObjects(httpResponse.MIMEType, @"application/json", @"HTTP response content type should be application/json in Search Items Service when bad request");
 
         }
         else {
-            XCTFail(@"Response was not NSHTTPURLResponse in Search Items Service");
+            XCTFail(@"Response was not NSHTTPURLResponse in Search Items Service when bad request");
         }
         
         [expectation fulfill];
