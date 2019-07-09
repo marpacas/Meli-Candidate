@@ -27,6 +27,8 @@
 
 @interface MLCSearchItemsService : NSObject
 
+@property(nonatomic,strong,nonnull)NSURLSession* session;
+
 -(void)searchItemsThatContainText:(nonnull NSString*)textToSearch  completionBlock:(nullable void(^)(NSArray <MLCItem*> * _Nullable itemsList, NSError* _Nullable error))completionBlock;
 
 @end

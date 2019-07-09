@@ -23,6 +23,7 @@
 		5BEF47C522D3E05B00D35599 /* ParserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47C422D3E05B00D35599 /* ParserTests.m */; };
 		5BEF47C722D3FA2A00D35599 /* InvalidSeller.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BEF47C622D3FA2A00D35599 /* InvalidSeller.plist */; };
 		5BEF47C922D3FA4A00D35599 /* ValidSeller.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5BEF47C822D3FA4A00D35599 /* ValidSeller.plist */; };
+		5BEF47CD22D40F9600D35599 /* SearchItemsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47CC22D40F9600D35599 /* SearchItemsTests.m */; };
 		5BF95F9B22D2CCDD0048A062 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9A22D2CCDD0048A062 /* main.m */; };
 		5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */; };
 		5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FA022D2CCDD0048A062 /* ViewController.m */; };
@@ -84,6 +85,7 @@
 		5BEF47C422D3E05B00D35599 /* ParserTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParserTests.m; sourceTree = "<group>"; };
 		5BEF47C622D3FA2A00D35599 /* InvalidSeller.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = InvalidSeller.plist; sourceTree = "<group>"; };
 		5BEF47C822D3FA4A00D35599 /* ValidSeller.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ValidSeller.plist; sourceTree = "<group>"; };
+		5BEF47CC22D40F9600D35599 /* SearchItemsTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchItemsTests.m; sourceTree = "<group>"; };
 		5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeliCandidate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF95F9A22D2CCDD0048A062 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -423,6 +425,7 @@
 		5BF95FE022D2EBCD0048A062 /* Service Tests */ = {
 			isa = PBXGroup;
 			children = (
+				5BEF47CC22D40F9600D35599 /* SearchItemsTests.m */,
 			);
 			name = "Service Tests";
 			path = Service_Tests;
@@ -613,6 +616,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BEF47CD22D40F9600D35599 /* SearchItemsTests.m in Sources */,
 				5BF95FFE22D3223B0048A062 /* SellerTests.m in Sources */,
 				5BF95FFC22D3141A0048A062 /* ItemTests.m in Sources */,
 				5BF9600022D325C00048A062 /* LocationTests.m in Sources */,

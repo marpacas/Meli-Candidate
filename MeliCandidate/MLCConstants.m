@@ -7,7 +7,7 @@
 
 #import "MLCConstants.h"
 
-NSString* const kBaseURL = @"http://api.mercadolibre.com";
+NSString* const kBaseURL = @"https://api.mercadolibre.com";
 NSString* const kMLCDomain = @"MLCD";
 NSString* const kSite = @"MLA";
 

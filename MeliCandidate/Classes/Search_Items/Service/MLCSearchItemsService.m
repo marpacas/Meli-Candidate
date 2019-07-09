@@ -28,8 +28,10 @@
     self.textToSearch = textToSearch;
     NSURLComponents* URLComponents = [self setUpURLComponents];
     if (URLComponents.URL) {
-        NSURLSession* session = [NSURLSession sharedSession];
-        self.getItemsListTask = [session dataTaskWithURL:URLComponents.URL completionHandler:^(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error) {
+        if (!self.session) {
+            self.session = [NSURLSession sharedSession];
+        }
+        self.getItemsListTask = [self.session dataTaskWithURL:URLComponents.URL completionHandler:^(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error) {
             NSHTTPURLResponse* httpResponse = (NSHTTPURLResponse*)response;
             if ((httpResponse) && (httpResponse.statusCode == ok)) {
                 self.JSONData = data;
@@ -58,7 +60,7 @@
         }];
     }
     else {
-        NSError* endpointError = [self setErrorWithMessage:@"Error in search items service - Invalid endpoint"];
+        NSError* endpointError = [self setErrorWithMessage:@"Error in search items service - Bad endpoint"];
         completionBlock(nil,endpointError);
     }
     
