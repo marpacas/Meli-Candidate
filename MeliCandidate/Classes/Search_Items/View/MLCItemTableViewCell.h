@@ -12,6 +12,7 @@
  A cell that shows  the basic info for an item
  */
 
+
 @interface MLCItemTableViewCell : UITableViewCell
 
 @property (weak, nonatomic) IBOutlet UIImageView *thumbnailImageView;

@@ -7,14 +7,17 @@
 //
 
 #import "MLCItemDetailViewController.h"
+#import "MLCPicturesCollectionViewDataSource.h"
 #import "MLCItemDetailService.h"
 #import "UIViewController+MLCCategory.h"
 #import "MLCQuantityFormatter.h"
 #import "MLCPriceFormatter.h"
+#import "MLCConstants.h"
 
-@interface MLCItemDetailViewController ()
+@interface MLCItemDetailViewController () <UICollectionViewDelegate>
 
-@property (weak, nonatomic) IBOutlet UIImageView *pictureImageView;
+@property (weak, nonatomic) IBOutlet UICollectionView *picturesCollectionView;
+@property (strong, nonatomic) IBOutlet MLCPicturesCollectionViewDataSource *picturesCollectionViewDataSource;
 
 @property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 @property (weak, nonatomic) IBOutlet UILabel *conditionLabel;
@@ -42,6 +45,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     [self initOutlets];
+    [self registerNibForPictureCell];
     [self getItemDetail];
     
 }
@@ -57,6 +61,14 @@
     self.availableQuantityLabel.text = @"";
     
 }
+
+-(void)registerNibForPictureCell {
+    UINib* pictureCellNib = [UINib nibWithNibName:kPictureCellNib bundle:[NSBundle mainBundle]];
+    [self.picturesCollectionView registerNib:pictureCellNib forCellWithReuseIdentifier:kPictureCellIdentifier];
+    
+}
+
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
@@ -93,22 +105,30 @@
 }
 
 -(void)setUpItemDetail {
-    self.pictureImageView.image = [UIImage imageNamed:@"placeholder_big"];
     self.titleLabel.text = self.item.title;
     self.conditionLabel.text = [self.item.condition capitalizedString];
-    self.soldQuantityLabel.text = [self getSoldQuantityText];
-    self.priceLabel.text = [self getPriceText];
-    self.sellerCityLabel.text = self.item.seller.location.city;
-    NSString* sellerString = NSLocalizedString(@"Vendedor ",nil);
-    if ((self.item.seller.powerSellerStatus) && ([self.item.seller.powerSellerStatus respondsToSelector:@selector(length)])) {
-        self.sellerStatusLabel.text = [sellerString  stringByAppendingString:self.item.seller.powerSellerStatus];
+    if (self.item.soldQuantity > 0) {
+        self.soldQuantityLabel.text = [self getSoldQuantityText];
+
     }
     else {
-        self.sellerStatusLabel.text = [sellerString  stringByAppendingString:NSLocalizedString(@"sin status", nil)];
-        
+        self.soldQuantityLabel.text = @"";
     }
+    self.priceLabel.text = [self getPriceText];
+     self.sellerCityLabel.text = self.item.seller.location.city;
+    [self setUpSellerStatusText];
     self.quantityToBuyLabel.text = @"1";
     self.availableQuantityLabel.text = [self getAvailableQuantityText];
+    if (self.item.picturesURL.count > 0) {
+        self.picturesCollectionViewDataSource.picturesURL =  self.item.picturesURL;
+    }
+    else {
+        if (self.item.thumbnailURL) {
+            self.picturesCollectionViewDataSource.picturesURL = [NSArray arrayWithObject:self.item.thumbnailURL];
+
+        }
+    }
+    [self.picturesCollectionView reloadData];
     
 }
 
@@ -131,6 +151,18 @@
     
 }
 
+-(void)setUpSellerStatusText {
+    NSString* sellerString = NSLocalizedString(@"Vendedor ",nil);
+    if ((self.item.seller.powerSellerStatus) && ([self.item.seller.powerSellerStatus respondsToSelector:@selector(length)])) {
+        self.sellerStatusLabel.text = [sellerString  stringByAppendingString:self.item.seller.powerSellerStatus];
+    }
+    else {
+        self.sellerStatusLabel.text = [sellerString  stringByAppendingString:NSLocalizedString(@"sin status", nil)];
+        
+    }
+
+}
+
 #pragma mark - Actions
 
 - (IBAction)buyAction:(id)sender {
@@ -142,6 +174,11 @@
     self.quantityToBuyLabel.text = [NSString stringWithFormat:@"%.0f",sender.value];
 }
 
+#pragma mark - Collection View Delegate
+
+-(CGSize)collectionView:(UICollectionView*)collectionView layout:(nonnull UICollectionViewLayout *)collectionViewLayout sizeForItemAtIndexPath:(nonnull NSIndexPath *)indexPath {
+    return CGSizeMake(self.picturesCollectionView.bounds.size.width,self.picturesCollectionView.bounds.size.height);
+}
 
 
 @end

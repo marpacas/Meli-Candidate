@@ -51,6 +51,9 @@
 		5BF95FFC22D3141A0048A062 /* ItemTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFB22D3141A0048A062 /* ItemTests.m */; };
 		5BF95FFE22D3223B0048A062 /* SellerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFD22D3223B0048A062 /* SellerTests.m */; };
 		5BF9600022D325C00048A062 /* LocationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FFF22D325C00048A062 /* LocationTests.m */; };
+		5BF9976622D4EBC6008B9B4B /* MLCPictureCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BF9976422D4EBC6008B9B4B /* MLCPictureCollectionViewCell.xib */; };
+		5BF9976922D4EC01008B9B4B /* MLCPictureCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF9976822D4EC01008B9B4B /* MLCPictureCollectionViewCell.m */; };
+		5BF9976C22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF9976A22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.m */; };
 		95E0426B9039FB692A7CA403 /* libPods-MeliCandidateTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C134F61BDFF66444BA3D21EB /* libPods-MeliCandidateTests.a */; };
 		BE284F4396E09EBD47401EFD /* libPods-MeliCandidate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6F92CC337C6655CA26F499 /* libPods-MeliCandidate.a */; };
 /* End PBXBuildFile section */
@@ -144,6 +147,11 @@
 		5BF95FFB22D3141A0048A062 /* ItemTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemTests.m; sourceTree = "<group>"; };
 		5BF95FFD22D3223B0048A062 /* SellerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SellerTests.m; sourceTree = "<group>"; };
 		5BF95FFF22D325C00048A062 /* LocationTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationTests.m; sourceTree = "<group>"; };
+		5BF9976522D4EBC6008B9B4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = MeliCandidate/Base.lproj/MLCPictureCollectionViewCell.xib; sourceTree = "<group>"; };
+		5BF9976722D4EC01008B9B4B /* MLCPictureCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCPictureCollectionViewCell.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BF9976822D4EC01008B9B4B /* MLCPictureCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCPictureCollectionViewCell.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BF9976A22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MLCPicturesCollectionViewDataSource.m; sourceTree = "<group>"; };
+		5BF9976B22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MLCPicturesCollectionViewDataSource.h; sourceTree = "<group>"; };
 		6A3C8CAEB7735663C15F606D /* Pods-MeliCandidateTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidateTests.release.xcconfig"; path = "Target Support Files/Pods-MeliCandidateTests/Pods-MeliCandidateTests.release.xcconfig"; sourceTree = "<group>"; };
 		73693E7480188AC2B8F97B36 /* Pods-MeliCandidateUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeliCandidateUITests.release.xcconfig"; path = "Target Support Files/Pods-MeliCandidateUITests/Pods-MeliCandidateUITests.release.xcconfig"; sourceTree = "<group>"; };
 		AFAC688B7465963E28C431A9 /* libPods-MeliCandidateUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MeliCandidateUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -251,6 +259,7 @@
 				5BF95FF022D3015B0048A062 /* MLCConstants.h */,
 				5BF95FEF22D3015B0048A062 /* MLCConstants.m */,
 				5BF95FE322D2F3CF0048A062 /* MLCItemTableViewCell.xib */,
+				5BF9976422D4EBC6008B9B4B /* MLCPictureCollectionViewCell.xib */,
 				5BF95FA222D2CCDD0048A062 /* Main.storyboard */,
 				5BF95FA522D2CCDD0048A062 /* Assets.xcassets */,
 				5BF95FA722D2CCDD0048A062 /* LaunchScreen.storyboard */,
@@ -369,6 +378,8 @@
 			children = (
 				5BEF47DC22D447CF00D35599 /* MLCItemDetailViewController.h */,
 				5BEF47DB22D447CF00D35599 /* MLCItemDetailViewController.m */,
+				5BF9976B22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.h */,
+				5BF9976A22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -394,6 +405,8 @@
 		5BF95FD822D2EAE70048A062 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				5BF9976722D4EC01008B9B4B /* MLCPictureCollectionViewCell.h */,
+				5BF9976822D4EC01008B9B4B /* MLCPictureCollectionViewCell.m */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -516,7 +529,6 @@
 				D1F5F5562B1B67F59BC31F2D /* Pods-MeliCandidateUITests.debug.xcconfig */,
 				73693E7480188AC2B8F97B36 /* Pods-MeliCandidateUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -629,6 +641,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BF9976622D4EBC6008B9B4B /* MLCPictureCollectionViewCell.xib in Resources */,
 				5BF95FE522D2F3CF0048A062 /* MLCItemTableViewCell.xib in Resources */,
 				5BF95FCD22D2E4AC0048A062 /* README in Resources */,
 				5BF95FA922D2CCDD0048A062 /* LaunchScreen.storyboard in Resources */,
@@ -667,15 +680,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-MeliCandidate-checkManifestLockResult.txt",
 			);
@@ -689,15 +698,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-MeliCandidateUITests-checkManifestLockResult.txt",
 			);
@@ -711,15 +716,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-MeliCandidateTests-checkManifestLockResult.txt",
 			);
@@ -750,10 +751,12 @@
 				5BEF47D922D4475A00D35599 /* MLCSearchItemsViewController.m in Sources */,
 				5BEF47A422D3B3F700D35599 /* MLCItemDetailService.m in Sources */,
 				5BEF47A522D3B3F700D35599 /* MLCItemDetailParser.m in Sources */,
+				5BF9976C22D4EE69008B9B4B /* MLCPicturesCollectionViewDataSource.m in Sources */,
 				5BF95FEC22D300D70048A062 /* MLCItem.m in Sources */,
 				5BEF479E22D3B0F100D35599 /* MLCItemsListParser.m in Sources */,
 				5BEF479F22D3B0F100D35599 /* MLCSellerParser.m in Sources */,
 				5BEF47D422D446E900D35599 /* UIViewController+MLCCategory.m in Sources */,
+				5BF9976922D4EC01008B9B4B /* MLCPictureCollectionViewCell.m in Sources */,
 				5BF95FFA22D308030048A062 /* MLCItemTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -820,6 +823,15 @@
 				5BF95FE422D2F3CF0048A062 /* Base */,
 			);
 			name = MLCItemTableViewCell.xib;
+			sourceTree = "<group>";
+		};
+		5BF9976422D4EBC6008B9B4B /* MLCPictureCollectionViewCell.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5BF9976522D4EBC6008B9B4B /* Base */,
+			);
+			name = MLCPictureCollectionViewCell.xib;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+/**
+ A category for common view controllers methods 
+ */
 
 @interface UIViewController (MLCCategory)
 
