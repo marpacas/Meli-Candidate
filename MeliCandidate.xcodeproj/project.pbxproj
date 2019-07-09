@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5B7D36C722D45DE600EA0546 /* SearchItemsViewControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B7D36C622D45DE600EA0546 /* SearchItemsViewControllerTests.m */; };
 		5BEF479222D3992D00D35599 /* FormatterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479122D3992D00D35599 /* FormatterTests.m */; };
 		5BEF479C22D3B0F100D35599 /* MLCSearchItemsService.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479422D3B0F100D35599 /* MLCSearchItemsService.m */; };
 		5BEF479D22D3B0F100D35599 /* MLCItemParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF479722D3B0F100D35599 /* MLCItemParser.m */; };
@@ -26,6 +27,10 @@
 		5BEF47CD22D40F9600D35599 /* SearchItemsServiceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47CC22D40F9600D35599 /* SearchItemsServiceTests.m */; };
 		5BEF47CF22D436E100D35599 /* ItemsListParserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47CE22D436E100D35599 /* ItemsListParserTests.m */; };
 		5BEF47D122D43D3300D35599 /* ItemsListsParserPerfomanceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47D022D43D3300D35599 /* ItemsListsParserPerfomanceTests.m */; };
+		5BEF47D422D446E900D35599 /* UIViewController+MLCCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47D222D446E900D35599 /* UIViewController+MLCCategory.m */; };
+		5BEF47D922D4475A00D35599 /* MLCSearchItemsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47D522D4475A00D35599 /* MLCSearchItemsViewController.m */; };
+		5BEF47DA22D4475A00D35599 /* MLCItemsTableViewDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47D622D4475A00D35599 /* MLCItemsTableViewDataSource.m */; };
+		5BEF47DD22D447CF00D35599 /* MLCItemDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEF47DB22D447CF00D35599 /* MLCItemDetailViewController.m */; };
 		5BF95F9B22D2CCDD0048A062 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9A22D2CCDD0048A062 /* main.m */; };
 		5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95F9D22D2CCDD0048A062 /* AppDelegate.m */; };
 		5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF95FA022D2CCDD0048A062 /* ViewController.m */; };
@@ -65,6 +70,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5B7D36C622D45DE600EA0546 /* SearchItemsViewControllerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchItemsViewControllerTests.m; sourceTree = "<group>"; };
 		5BEF479122D3992D00D35599 /* FormatterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormatterTests.m; sourceTree = "<group>"; };
 		5BEF479322D3B0F000D35599 /* MLCSearchItemsService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCSearchItemsService.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		5BEF479422D3B0F100D35599 /* MLCSearchItemsService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCSearchItemsService.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
@@ -90,6 +96,14 @@
 		5BEF47CC22D40F9600D35599 /* SearchItemsServiceTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchItemsServiceTests.m; sourceTree = "<group>"; };
 		5BEF47CE22D436E100D35599 /* ItemsListParserTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemsListParserTests.m; sourceTree = "<group>"; };
 		5BEF47D022D43D3300D35599 /* ItemsListsParserPerfomanceTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemsListsParserPerfomanceTests.m; sourceTree = "<group>"; };
+		5BEF47D222D446E900D35599 /* UIViewController+MLCCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = "UIViewController+MLCCategory.m"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF47D322D446E900D35599 /* UIViewController+MLCCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "UIViewController+MLCCategory.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF47D522D4475A00D35599 /* MLCSearchItemsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCSearchItemsViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF47D622D4475A00D35599 /* MLCItemsTableViewDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemsTableViewDataSource.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF47D722D4475A00D35599 /* MLCSearchItemsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCSearchItemsViewController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF47D822D4475A00D35599 /* MLCItemsTableViewDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemsTableViewDataSource.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		5BEF47DB22D447CF00D35599 /* MLCItemDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = MLCItemDetailViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		5BEF47DC22D447CF00D35599 /* MLCItemDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = MLCItemDetailViewController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
 		5BF95F9622D2CCDD0048A062 /* MeliCandidate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeliCandidate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF95F9A22D2CCDD0048A062 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5BF95F9C22D2CCDD0048A062 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -264,8 +278,8 @@
 			isa = PBXGroup;
 			children = (
 				5BF95FCF22D2EAE70048A062 /* Common */,
-				5BF95FD422D2EAE70048A062 /* Item Detail */,
 				5BF95FD922D2EAE70048A062 /* Search Items */,
+				5BF95FD422D2EAE70048A062 /* Item Detail */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -284,6 +298,8 @@
 		5BF95FD022D2EAE70048A062 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				5BEF47D322D446E900D35599 /* UIViewController+MLCCategory.h */,
+				5BEF47D222D446E900D35599 /* UIViewController+MLCCategory.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -334,6 +350,8 @@
 		5BF95FD522D2EAE70048A062 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				5BEF47DC22D447CF00D35599 /* MLCItemDetailViewController.h */,
+				5BEF47DB22D447CF00D35599 /* MLCItemDetailViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -378,6 +396,10 @@
 		5BF95FDA22D2EAE70048A062 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				5BEF47D722D4475A00D35599 /* MLCSearchItemsViewController.h */,
+				5BEF47D522D4475A00D35599 /* MLCSearchItemsViewController.m */,
+				5BEF47D822D4475A00D35599 /* MLCItemsTableViewDataSource.h */,
+				5BEF47D622D4475A00D35599 /* MLCItemsTableViewDataSource.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -440,6 +462,7 @@
 		5BF95FE122D2EBCD0048A062 /* Controller Tests */ = {
 			isa = PBXGroup;
 			children = (
+				5B7D36C622D45DE600EA0546 /* SearchItemsViewControllerTests.m */,
 			);
 			name = "Controller Tests";
 			path = Controller_Tests;
@@ -604,16 +627,20 @@
 				5BF95FED22D300D70048A062 /* MLCSeller.m in Sources */,
 				5BF95FF122D3015B0048A062 /* MLCConstants.m in Sources */,
 				5BF95FF722D307A40048A062 /* MLCPriceFormatter.m in Sources */,
+				5BEF47DD22D447CF00D35599 /* MLCItemDetailViewController.m in Sources */,
 				5BF95FA122D2CCDD0048A062 /* ViewController.m in Sources */,
 				5BEF479D22D3B0F100D35599 /* MLCItemParser.m in Sources */,
+				5BEF47DA22D4475A00D35599 /* MLCItemsTableViewDataSource.m in Sources */,
 				5BF95F9E22D2CCDD0048A062 /* AppDelegate.m in Sources */,
 				5BF95FEE22D300D70048A062 /* MLCLocation.m in Sources */,
 				5BF95F9B22D2CCDD0048A062 /* main.m in Sources */,
+				5BEF47D922D4475A00D35599 /* MLCSearchItemsViewController.m in Sources */,
 				5BEF47A422D3B3F700D35599 /* MLCItemDetailService.m in Sources */,
 				5BEF47A522D3B3F700D35599 /* MLCItemDetailParser.m in Sources */,
 				5BF95FEC22D300D70048A062 /* MLCItem.m in Sources */,
 				5BEF479E22D3B0F100D35599 /* MLCItemsListParser.m in Sources */,
 				5BEF479F22D3B0F100D35599 /* MLCSellerParser.m in Sources */,
+				5BEF47D422D446E900D35599 /* UIViewController+MLCCategory.m in Sources */,
 				5BF95FFA22D308030048A062 /* MLCItemTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -629,6 +656,7 @@
 				5BEF47C522D3E05B00D35599 /* ParserTests.m in Sources */,
 				5BEF47CF22D436E100D35599 /* ItemsListParserTests.m in Sources */,
 				5BEF479222D3992D00D35599 /* FormatterTests.m in Sources */,
+				5B7D36C722D45DE600EA0546 /* SearchItemsViewControllerTests.m in Sources */,
 				5BEF47D122D43D3300D35599 /* ItemsListsParserPerfomanceTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

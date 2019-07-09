@@ -17,7 +17,15 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    [self customizeNavigationBarTitle];
     return YES;
+}
+
+-(void)customizeNavigationBarTitle {
+    NSMutableDictionary* titleAttributes = [[NSMutableDictionary alloc] init];
+    [titleAttributes setObject:[UIColor colorWithRed:0.0 green:122.0/255.0 blue:1.0 alpha:1.0] forKey:NSForegroundColorAttributeName];
+    [[UINavigationBar appearance] setTitleTextAttributes:titleAttributes];
+    
 }
 
 

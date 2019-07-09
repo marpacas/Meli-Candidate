@@ -12,7 +12,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
-        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="ItemCellIdentifier" rowHeight="160" id="KGk-i7-Jjw">
+        <tableViewCell contentMode="scaleToFill" selectionStyle="gray" indentationWidth="10" reuseIdentifier="ItemCellIdentifier" rowHeight="160" id="KGk-i7-Jjw" customClass="MLCItemTableViewCell">
             <rect key="frame" x="0.0" y="0.0" width="320" height="160"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
             <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
@@ -21,32 +21,31 @@
                 <subviews>
                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="ja0-lO-jrf">
                         <rect key="frame" x="8" y="27" width="98" height="106"/>
-                        <color key="backgroundColor" red="1" green="0.14468306249999999" blue="0.02914316015" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstAttribute="width" constant="98" id="7My-Kd-Z77"/>
                             <constraint firstAttribute="height" constant="106" id="LcD-tr-d6D"/>
                         </constraints>
                     </imageView>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Text11111111111111111111111111111111111111111111111111111111111" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lug-R1-Qii">
-                        <rect key="frame" x="116" y="8" width="196" height="57.5"/>
+                        <rect key="frame" x="116" y="14" width="196" height="57.5"/>
                         <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="16"/>
                         <color key="textColor" red="0.37254901959999998" green="0.37254901959999998" blue="0.37254901959999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Precio" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tVW-vs-Gty">
-                        <rect key="frame" x="116" y="77" width="42.5" height="17"/>
+                        <rect key="frame" x="116" y="77.5" width="43" height="18"/>
                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="15"/>
                         <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Vendidos" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YGY-Pi-DRl">
-                        <rect key="frame" x="116" y="102" width="58" height="16.5"/>
+                        <rect key="frame" x="116" y="101" width="58" height="16.5"/>
                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
                         <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ciudad" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JKo-7g-kQu">
-                        <rect key="frame" x="116" y="124" width="45.5" height="17"/>
+                        <rect key="frame" x="116" y="125.5" width="46" height="17"/>
                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
                         <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <nil key="highlightedColor"/>
@@ -54,18 +53,25 @@
                 </subviews>
                 <constraints>
                     <constraint firstItem="Lug-R1-Qii" firstAttribute="leading" secondItem="ja0-lO-jrf" secondAttribute="trailing" constant="10" id="6c6-fK-mIk"/>
-                    <constraint firstItem="tVW-vs-Gty" firstAttribute="top" secondItem="Lug-R1-Qii" secondAttribute="bottom" constant="11.5" id="Dhx-Ib-s6o"/>
+                    <constraint firstItem="tVW-vs-Gty" firstAttribute="top" secondItem="Lug-R1-Qii" secondAttribute="bottom" constant="6" id="Dhx-Ib-s6o"/>
                     <constraint firstItem="tVW-vs-Gty" firstAttribute="leading" secondItem="Lug-R1-Qii" secondAttribute="leading" id="G5r-BP-w78"/>
                     <constraint firstAttribute="leadingMargin" secondItem="ja0-lO-jrf" secondAttribute="leading" id="GA9-e6-hlq"/>
                     <constraint firstAttribute="trailingMargin" secondItem="Lug-R1-Qii" secondAttribute="trailing" id="VyL-3e-wAz"/>
-                    <constraint firstItem="JKo-7g-kQu" firstAttribute="top" secondItem="YGY-Pi-DRl" secondAttribute="bottom" constant="5.5" id="ZMM-0u-14u"/>
-                    <constraint firstAttribute="topMargin" secondItem="Lug-R1-Qii" secondAttribute="top" id="Zah-kN-VzL"/>
-                    <constraint firstItem="YGY-Pi-DRl" firstAttribute="top" secondItem="tVW-vs-Gty" secondAttribute="bottom" constant="8" id="dCn-uL-2pD"/>
+                    <constraint firstItem="JKo-7g-kQu" firstAttribute="top" secondItem="YGY-Pi-DRl" secondAttribute="bottom" constant="8.5" id="ZMM-0u-14u"/>
+                    <constraint firstAttribute="topMargin" secondItem="Lug-R1-Qii" secondAttribute="top" constant="-6" id="Zah-kN-VzL"/>
+                    <constraint firstItem="YGY-Pi-DRl" firstAttribute="top" secondItem="tVW-vs-Gty" secondAttribute="bottom" constant="5" id="dCn-uL-2pD"/>
                     <constraint firstItem="JKo-7g-kQu" firstAttribute="leading" secondItem="YGY-Pi-DRl" secondAttribute="leading" id="qUW-aI-T3n"/>
                     <constraint firstItem="ja0-lO-jrf" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="zbm-AR-sYH"/>
                     <constraint firstItem="YGY-Pi-DRl" firstAttribute="leading" secondItem="tVW-vs-Gty" secondAttribute="leading" id="zvs-cj-iK5"/>
                 </constraints>
             </tableViewCellContentView>
+            <connections>
+                <outlet property="cityLabel" destination="JKo-7g-kQu" id="bCc-E4-H4o"/>
+                <outlet property="priceLabel" destination="tVW-vs-Gty" id="XTm-hR-tzO"/>
+                <outlet property="soldQuantityLabel" destination="YGY-Pi-DRl" id="rx0-il-fXo"/>
+                <outlet property="thumbnailImageView" destination="ja0-lO-jrf" id="PDb-8T-T64"/>
+                <outlet property="titleLabel" destination="Lug-R1-Qii" id="NcE-fQ-lwb"/>
+            </connections>
             <point key="canvasLocation" x="33" y="124.5"/>
         </tableViewCell>
     </objects>

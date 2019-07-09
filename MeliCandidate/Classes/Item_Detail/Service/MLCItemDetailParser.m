@@ -38,7 +38,8 @@
 
 -(NSError*)getDetailFromJSONDictionaryForItem:(MLCItem*)item {
     NSError* parsingError;
-    if ((self.JSONDictionary[@"id"]) && ( self.JSONDictionary[@"title"])&& ( self.JSONDictionary[@"condition"]) && (self.JSONDictionary[@"address"])) {
+    if ((self.JSONDictionary[@"id"]) && (self.JSONDictionary[@"title"]) && (self.JSONDictionary[@"condition"])) {
+        
         [self setUpDetailForItem:item];
     }
     else {
