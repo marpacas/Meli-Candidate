@@ -22,10 +22,10 @@ Se puede ver como el MVC, que es la arquitectura default en el ecosistema Apple,
 * MLCPriceFormatter
 * MLCQuantityFormatter
 * MLCItemTableViewCell
-* MLCIPictureCollectionViewCell
+* MLCPictureCollectionViewCell
 
 ### Controllers
-* MLCISearchtemsViewController : Muestra el campo para que el usuario  ingrese el texto de búsqueda; también despliega la lista de ítems que devuelve la API y que contienen el texto buscado.
+* MLCSearchtemsViewController : Muestra el campo para que el usuario  ingrese el texto de búsqueda; también despliega la lista de ítems que devuelve la API y que contienen el texto buscado.
 
 	##### Data Sources
 
@@ -98,7 +98,7 @@ En el proyecto se definieron cinco tipos de tests
 * Tests para los Parsers
 * Tests de Performance
 
-Para cada tipo se implementaron algunos de los tests más representativos; el code coverage es del 
+Para cada tipo se implementaron algunos de los tests más representativos. 
 
 ## Librerías Externas
 
