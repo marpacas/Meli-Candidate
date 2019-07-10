@@ -111,5 +111,3 @@ En el proyecto se utilizaron las siguientes librerías externas
 
 El proyecto utiliza el estilo sugerido [aquí](http://udacity.github.io/git-styleguide/) ; este estilo incluye un título y un detalle con lista de los cambios realizados
 
-
-## OCLint (cómo instalar, etc)
